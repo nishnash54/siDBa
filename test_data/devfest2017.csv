@@ -1,0 +1,703 @@
+Sno,Reg No,Email,Name,Mob No,Event,Gender,Hosteller ,Room No,Block,College,Type
+0,16BCE0584,svineth.face@gmail.com,Vineeth S,7299430575,Hackathon+Ideathon,Male ,true ,,,,
+1,15BIT0172,sjsj@gmail.com,Aalind,9585412541,Hackathon,Male ,true ,,,,
+2,15BCB0999,ujjwal.097@gmail.com,Ujjwal Ayyangar,9455708038,Hackathon+Ideathon,Male ,true ,,,,
+3,15BCS0082,rkbalu524@gmail.com,Rahul Krishna,7907543259,Hackathon,Male ,true ,,,,
+4,14BCE0529,geek.ashwini@gmail.com,Ashwini Purohit,8098678877,Hackathon,Male ,true ,,,,
+5,15BCE0100,kolagatla.siddharth2015@vit.ac.in,Siddharth Kolagatla,8939113728,Hackathon,Male ,true ,,,,
+6,16BEC0866,mvignesh656@gmail.com,Vignesh,8695379639,Hackathon,Male ,true ,,,,
+7,17BIT0048,reshabh1999@gmail.com,Reshabh kumar Jain,8601341233,Hackathon,Male ,true ,,,,
+8,15BIT0192,rajrishav2016@gmail.com,Rishav Raj,9790625991,Hackathon,Male ,true ,,,,
+9,15BEI0051,rohan.prasad2015@vit.ac.in,Rohan Prasad,8939110824,Hackathon,Male ,true ,,,,
+10,15BBT0008,vinayakjjw@gmail.com,Vinayak Jhunjhunwala,9543630088,Hackathon+Ideathon,Male ,true ,,,,
+11,15BCE0897,ashupednekar49@gmail.com,Ashutosh Mahesh Pednekar,8806416267,Hackathon,Male ,true ,,,,
+12,15BCE2012,shivam.gupta2015a@vit.ac.in,Shivam Gupta,9953098721,Hackathon,Male ,true ,,,,
+13,15BCE0104,rishab.taneja22@gmail.com,Rishab,9414010878,Hackathon+Ideathon,Male ,true ,,,,
+14,14BIT0223,vivek96@outlook.com,Vivek Yadav,9095048260,Hackathon,Male ,true ,,,,
+15,15BEC0527,k.harish2015@vit.ac.in,K.Harish,9942392237,Hackathon+Ideathon,Male ,true ,,,,
+16,17BCE0857,vansha10@gmail.com,Vansh Arora,9003700885,Hackathon+Ideathon,Male ,true ,,,,
+17,16BCI0133,kaartikmalhotra1@gmail.com,Kaartik Malhotra,9582193296,Hackathon+Ideathon,Male ,true ,,,,
+18,13BCE0395,shamvilraza@gmail.com,Shamvil Raza,8110019695,Hackathon+Ideathon,Male ,true ,,,,
+19,16BCE0649,gowthamsathyan.a2016@gmail.com,Gowtham Sathyan,9566139983,Hackathon,Male ,true ,,,,
+20,15BCE2081,krishakchoukhany@gmail.com,Krishak Choukhany,9874085445,Hackathon,Male ,true ,,,,
+21,16BCE0579,shraveen1998@gmail.com,B.S.SHRAVEEN,9791768213,Hackathon,Male ,true ,,,,
+22,16BCE2104,mridulbansal98@gmail.com,Mridul Bansal,9843711159,Hackathon+Ideathon,Male ,true ,,,,
+23,15BEC0606,arora.naman@outlook.com,Naman Arora,9004631644,Hackathon,Male ,true ,,,,
+24,16BCE0642,saranshmanu@yahoo.co.in,Saransh Mittal,9910749550,Hackathon,Male ,true ,,,,
+25,15BCE0030,ojaswik14@gmail.com,Ojaswi Kumar,9790079456,Hackathon,Male ,true ,,,,
+26,17BCE0753,sushmit.vaish@gmail.com,Sushmit Vaish,8870772224,Hackathon,Male ,true ,,,,
+27,15BCE0136,umang.agarwal2015@vit.ac.in,Umang Agarwal,9051036579,Ideathon,Male ,true ,,,,
+28,16BIS0175,rohan.singh2016@vitstudent.ac.in,ROHAN SINGH,9626777520,Ideathon,Male ,true ,,,,
+29,17BCE2373,sharma_zepplin@outlook.com,Shriyog sharma,8111054445,Ideathon,Male ,true ,,,,
+30,16BCE0433,mrbharatmehra@gmail.com,Ansh Mehra,9540451111,Hackathon,Male ,true ,,,,
+31,17BCE2359,baibhav.singh321@gmail.com,Baibhav Singh,9813472938,Ideathon,Male ,true ,,,,
+32,16BEC0083,dspbv.mv@gmail,Dspbv,9632587412,Hackathon+Ideathon,Male ,true ,,,,
+33,16bce0743,kvikrame.vasudev2016@vitstudent.ac.in,Vikrame,8012590344,Hackathon,Male ,true ,,,,
+34,15BCE0740,fmali1997@gmail.com,Faheem Ali,9790004176,Hackathon+Ideathon,Male ,true ,,,,
+35,16Bit0241,tanvivijay15@gmail.com,Tanvi vijay,7530000735,Hackathon,Female ,true ,,,,
+36,15TUIT008,virataravindhan@gmail.com,Aravindhan,8883311311,Hackathon,Male ,,,,,
+37,16BCI0079 ,Soumyaranjan2807@gmail.com,Soumya Ranjan ,8920551852,Hackathon,Male ,true ,,,,
+38,16BCE0190,ruchirbhaskar@gmail.com,Ruchir bhaskar,8475025294,Ideathon,Male ,true ,,,,
+39,16BCE0293 ,saivicky2015@gmail.com,Vikranth Kanumuru ,9994420576,Hackathon+Ideathon,Male ,true ,,,,
+40,16BCE0567,onimusha702@gmail.com,amrut phadke,9003090130,Hackathon,Male ,true ,,,,
+41,16BCE0116,akshit.grover2016@gmail.com,Akshit Grover,8190822286,Hackathon,Male ,true ,,,,
+42,15bit0360,harshit.aggarwal2015@vit.ac.in,Harshit,9445826328,Hackathon,Male ,true ,,,,
+43,16BIS0179,anirudhofficial98@gmail.com,Anirudh,9664871562,Hackathon+Ideathon,Male ,true ,,,,
+44,16BCE0719,iamdevansh496@gmail.co,Devansh,8318872578,Ideathon,Male ,true ,,,,
+45,16BIS0091,ks.somesh2016@vitstudent.ac.in,K.S.Somesh,7899518992,Hackathon+Ideathon,Male ,true ,,,,
+46,15BCE0602,arpit.jain2015@vit.ac.in,Arpit Jain,7021489200,Hackathon+Ideathon,Male ,true ,,,,
+47,16BCE0769,sb1821987@gmail.com,Sagar bansal,8318680268,Hackathon+Ideathon,Male ,true ,,,,
+48,17BCE0284,utkarshk98@gmail.com,Utkarsh Kumar,9600255537,Ideathon,Male ,true ,,,,
+49,15BEM0111,rahulghosh.2015@vit.ac.in,Rahul Ghosh,8910279606,Hackathon,Male ,true ,,,,
+50,17BBB0075,a@b,Jim Gordon,1231231231,Hackathon,Male ,true ,,,,
+51,15BEM0042,srbh.jn11@gmail.com,Saurabh Jain,9585437874,Hackathon+Ideathon,Male ,true ,,,,
+52,16BCB0055,utsav.garg2016@vitstudent.ac.in,Utsav Garg,9786699957,Hackathon,Male ,true ,,,,
+53,15BIT0166,mdakram28@gmail.com,Mohd Akram Ansari,9003698944,Hackathon,Male ,true ,,,,
+54,AP17110010098,rishabhminocha99900@gmail.com,Rishabh Minocha,9910410355,Hackathon,Male ,,,,,
+55,15bce0657,harshit.kapoor2015@vit.ac.in,Harshit kapoor,7351606000,Hackathon+Ideathon,Male ,true ,,,,
+56,16BIT0127,prateekranjansingh@gmail.com,Prateek Ranjan Singh,7530000103,Hackathon+Ideathon,Male ,true ,,,,
+57,16BCI0179,abaggu7@gmail.com,Anuraag Baggu,8885900023,Hackathon,Male ,true ,,,,
+58,17BCE0009,arulagarwal@gmail.com,Arul Agarwal,9770281963,Hackathon,Male ,true ,,,,
+59,16BCE0176,yadathaabhinav.reddy2016@vitstudent.ac.in,Y Abhinav Reddy,7530003599,Hackathon,Male ,true ,,,,
+60,12bit0097,susjshsh@uejeje.con,Hsusnsbddh,2255880033,Hackathon,Male ,true ,,,,
+61,16BIS0105,mjarts38@gmail.com,Meher Jangra,8940744419,Hackathon+Ideathon,Male ,true ,,,,
+62,16BCE0598,rishabhrola98@gmail.com,Rishabh Rola,8860833014,Hackathon+Ideathon,Male ,true ,,,,
+63,16BCE0824,akashtushar393@gmail.com,Akash Tushar,8940542840,Ideathon,Male ,true ,,,,
+64,15BIT0179 ,mansidixit81@gmail.com,Mansi Dixit ,8940234267,Hackathon,Female ,true ,,,,
+65,16BCE0882,siddhaarth.saxena@gmail.com,Siddhaarth Saxena,9894999737,Hackathon+Ideathon,Male ,true ,,,,
+66,16BCI0074,asquare1997@gmail.com,Archisman Acharya ,8093063631,Hackathon+Ideathon,Male ,true ,,,,
+67,16BIS0178 ,shashank.shukla2016@vitstudent.ac.in,Shashank Shukla ,9772076604,Hackathon+Ideathon,Male ,true ,,,,
+68,15BCB0123,yash.shah2015@vit.ac.in,Yash Shah,9409213105,Hackathon,Male ,true ,,,,
+69,16BIS0109,raghav.sh98@gmail.com,Raghav Sharma,9994498300,Hackathon+Ideathon,Male ,,,,,
+70,14CS11,baranitharan2020@gmail.com,Baranitharan,9698611282,Hackathon+Ideathon,Male ,,,,,
+71,16BCE0288,indresh.arora2016@vitstudent.ac.in,Indresh Arora,8290642601,Hackathon+Ideathon,Male ,true ,,,,
+72,16BCE0054,milansasapara07@gmail.com,Milan Sasapara,8160906339,Hackathon,Male ,true ,,,,
+73,16BCE0663,immudit47@gmail.com,Mudit Agarwal,9760520240,Ideathon,Male ,true ,,,,
+74,16BCE0320,yash.kukreja.98@gmail.com,Yashvardhan Kukreja,9999712426,Hackathon,Male ,true ,,,,
+75,16BCE0823,mehul.singhal2016@vitstudent.ac.in,Mehul Singhal,9087777289,Hackathon+Ideathon,Male ,true ,,,,
+76,16bIS0161,rishabh.baid2016@vitstudent.ac.in,Rishabh Baid,9051777520,Hackathon+Ideathon,Male ,true ,,,,
+77,16BCI0198,aryan.soni2016@gmail.com,Aryan Soni,7020848467,Hackathon,Male ,true ,,,,
+78,16BCI0070 ,prapti.luthra2016@vitstudent.ac.in,Prapti Luthra ,9629219208,Hackathon+Ideathon,Female ,true ,,,,
+79,821114104017,rviratnagasurya@gmail.com,Nagarajan,7092569252,Hackathon+Ideathon,Male ,,,,,
+80,16shgkhsgsk,aaaaaa@ewe,aaaaa,1511111111,Hackathon+Ideathon,Female ,true ,,,,
+81,Ffghh13r,sddd@fdd.com,Ddsgg,148857458,Hackathon,Male ,,,,,
+82,16BCB0128,ashishkalakoti@gmail.com,Ashish Singh Kalakoti,9487560369,Hackathon+Ideathon,Male ,true ,,,,
+83,16BCE0013,mohammed.sohail2016@vitstudent.ac.in,Mohammed Sohail,8797894230,Hackathon+Ideathon,Male ,true ,,,,
+84,4128,harshacalm20@gmail.com,HARSHA M,7358097088,Hackathon+Ideathon,Male ,,,,,
+85,310616107099,thiru.vikraman33@gmail.com,Thiruvikraman,9087574771,Hackathon+Ideathon,Male ,,,,,
+86,14BCE0027,radhayshayamama@gmail.com,Radhe maa,9787878787,Hackathon+Ideathon,Female ,true ,,,,
+87,16BEC0215,harshablast@gmail.com,Sriharsha Bommana,9951985016,Hackathon,Male ,true ,,,,
+88,15BCE0333,sandipan329@gmail.com,Sandipan Basak,8777461809,Hackathon,Male ,true ,,,,
+89,15BCE0561,soumboral@gmail.com,Soumallya Boral,9003848147,Hackathon+Ideathon,Male ,true ,,,,
+90,16BCE2209,krithika.bsubramanian2016@vitstudent.ac.in,Krithika Balasubramanian,8056113879,Hackathon+Ideathon,Female ,true ,,,,
+91,16BCI0039,hmhmrock@gmail.com,Harshit Maheshwari,9167086310,Hackathon,Male ,true ,,,,
+92,16BCI0147,jprrahultiwari@gmail.com,Rahul Tiwari,9460467919,Hackathon,Male ,true ,,,,
+93,15BCE0111,methun.s2015@vit.ac.in,Methun.s,9176611446,Ideathon,Male ,true ,,,,
+94,16BEE0122,aakarsh.nayyar2016@vitstudent.ac.in,Aakarsh Nayyar,7351875393,Hackathon+Ideathon,Male ,true ,,,,
+95,14BIT0262,sarveshbiradar@gmail.com,Sarvesh Biradar,7010358524,Ideathon,Male ,true ,,,,
+96,15BCE0483,singhanupriya1011@gmail.com,Singh Anupriya Deepak Kumar Singh,9403024382,Hackathon,Female ,true ,,,,
+97,16bce0655 ,suvronil.basu2016@vitstudent.ac.in,Suvronil Basu,9585355526,Hackathon+Ideathon,Male ,true ,,,,
+98,16BCE2311,madhavbahl10@gmail.com,Madhav Bahl,8800467915,Hackathon,Male ,true ,,,,
+99,16BCA0022,siddharth.gupta2016@vitstudent.ac.in,Siddharth Gupta,8840328573,Hackathon,Male ,true ,,,,
+100,16BEE0127,chhayaprakashj@gmail.com,Chhaya Jadhav,9751177716,Hackathon+Ideathon,Female ,true ,,,,
+101,16BCE0833,namankhurpia2@gmail.com,Naman Khurpia,9039658263,Hackathon,Male ,true ,,,,
+102,16BCE0716,pgolecha12@gmail.com,Palash Golecha,9680896990,Hackathon,Male ,true ,,,,
+103,16BME0911,abhinav.gupta2016@vitstudent.ac.in,Abhinav Gupta,9761112818,Hackathon+Ideathon,Male ,true ,,,,
+104,15BCB0021,sonali.pandey2015@vit.ac.in,Sonali Pandey,9003715607,Hackathon,Female ,true ,,,,
+105,16BCB0088,jaiimmortal@gmail.com,Jaivarsan,9884042607,Hackathon,Male ,true ,,,,
+106,16BEC0801,gokul.s2016@vitstudent.ac.in,Gokul,8608121897,Hackathon,Male ,true ,,,,
+107,16BCA0025,arijit97@Hotmail.com,Arijit Mukherjee,9911346227,Hackathon,Male ,true ,,,,
+108,15BEC0532,anirudhitagi3@gmail.com,ANIRUDH ITAGI,9449833409,Hackathon,Male ,true ,,,,
+109,16BCE0587,yoyaswant@gmail.com,K.K.YASWANT NARAYAN,9841062377,Hackathon,Male ,true ,,,,
+110,15BIT0362,pallavia1204@gmail.com,Pallavi Agrawal,9003738868,Hackathon,Female ,true ,,,,
+111,15BCE0294,shreya.agarwal2015@vit.ac.in,Shreya Agarwal,9790611422,Hackathon,Female ,true ,,,,
+112,16BCE0137,guptaneelesh16m@gmail.com,Neelesh ,7530009223,Hackathon,Male ,true ,,,,
+113,15BIT0090,gaayushmaan@gmail.com,Aayush Gupta,9092350655,Hackathon,Male ,true ,,,,
+114,16BCB0051,gurkaran.sahni2016@vitstudent.ac.in,Gurkaran Sahni,9791444025,Ideathon,Male ,true ,,,,
+115,15bec0741,themadhursatija@gmail.com,Madhur satija,9790011209,Hackathon+Ideathon,Male ,true ,,,,
+116,17bit0379,shubham.singh377@gmail.com,Shubham raj singh,8755834472,Hackathon,Male ,true ,,,,
+117,15BEC0538,Aman.pareek2015@vit.ac.in,Aman pareek,9942405711,Hackathon+Ideathon,Male ,true ,,,,
+118,15BIT0174,sweta.kumari2015@vit.ac.in,Sweta Kumari ,9585584563,Hackathon,Female ,true ,,,,
+119,15BCE0873,shreyanshjain.2015@vit.ac.in,Shreyansh jain,8220105035,Hackathon,Male ,true ,,,,
+120,15BCE0532,chirag.arora2015@vit.ac.in,Chirag Arora,9790608266,Hackathon,Male ,true ,,,,
+121,16BCE0993,rishabhchanana8@gmail.com,Rishabh Chanana,8816007200,Hackathon+Ideathon,Male ,true ,,,,
+122,16BCE0421,deepbaldha@gmail.com,Deep Baldha,9944666098,Hackathon+Ideathon,Male ,true ,,,,
+123,15BIT0223,raghav.khandelwal2015@vit.ac.in,Raghav khandelwal,8439301848,Hackathon,Male ,,,,,
+124,14MSE0025,pvishnuprasaath@gmail.com,Vishnu Prasaath,9500717824,Hackathon,Male ,true ,,,,
+125,15BCB0093,sangarshana@gmail.com,sangarshanan,9500193377,Hackathon+Ideathon,Male ,true ,,,,
+126,16MIS0059,roopsaventator@gmail.com,Roopan,8220295938,Hackathon,Male ,true ,,,,
+127,15bcb0031,sridharksvn@gmail.com,Sridhar,7010602824,Hackathon+Ideathon,Male ,true ,,,,
+128,17BIT0047,mutnejalakshya@gmail.com,LAKSHYA MUTNEJA,7307280200,Hackathon+Ideathon,Male ,true ,,,,
+129,16BCE0785,lakshay.arora2016@vitstudent.ac.in,Lakshay Arora ,9643991885,Hackathon+Ideathon,Male ,true ,,,,
+130,15BCE0968,anmol.anurag1997@gmail.com,Anmol Srivastava,9585585414,Hackathon,Female ,true ,,,,
+131,14BCE0488,akankani@gmail.com,Abhishek Kankani,9999403649,Hackathon+Ideathon,Male ,true ,,,,
+132,16BCE0556 ,preethi.p2016@vitstudent.ac.in,Preethi ,7395932660,Hackathon,Female ,true ,,,,
+133,16BCE0017,chintanr97@gmail.com,Chintan Rajvir,918098233329,Hackathon+Ideathon,Male ,true ,,,,
+134,16BEE0030,ankitdeo7@gmail.com,ANKIT DEO,7092437744,Hackathon,Male ,true ,,,,
+135,16BIT0061,akshat.agarwal2016a@vitstudent.ac.in,Akshat Agarwal,8890079259,Hackathon,Male ,true ,,,,
+136,16BEC0143,apoorv.goyal2016@vitstudent.ac.in,Apoorv Goyal,8890336585,Hackathon+Ideathon,Male ,true ,,,,
+137,14msn0041,ankitabaid44@gmail.com,Ankita,7987333515,Hackathon+Ideathon,Female ,,,,,
+138,12BCE0674,svineth.face34343434@gmail.com,Vineeth S,5555555555,Hackathon+Ideathon,Male ,true ,,,,
+139,111615105008,muruganbarath7@outoook.com,Barath,9629236204,Hackathon,Male ,,,,,
+140,14BCB0031,sardana.sumit08@gmail.com,Sumit Sardana,9092502030,Hackathon,Male ,hosteller ,1043,mh_l ,,internal 
+141,12BCE0673,svineth.face7384378392323123@gmail.com,Vineeth S,7222222222,Hackathon+Ideathon,Female ,hosteller ,435,mh_a ,,internal 
+142,14BCB0063,vksangwan9@yahoo.com,Vikas Sangwan,9466471149,Hackathon,Male ,hosteller ,608,mh_l ,,internal 
+143,14BCE0738,ankitgarg.mm@gmail.com,Ankit Garg,9943638596,Hackathon+Ideathon,Male ,hosteller ,922,mh_l ,,internal 
+144,16BCE0242,rajgaurav99@gmail.com,Gaurav Kumar Singh,9994405414,Hackathon,Male ,hosteller ,670,mh_f ,,internal 
+145,16BCB0097,pushan.srivastava2016@vitstudent.ac.in,Pushan Srivastava,9555505701,Hackathon,Male ,hosteller ,670,mh_f ,,internal 
+146,15BCE0362,mudgpt@gmail.com,Mudit gupta,9003708823,Hackathon,Male ,hosteller ,629,mh_l ,,internal 
+147,16BEC0032,khanadnaan.anwar2016@vitstudent.ac.in,Adnaan Khan,8600520868,Hackathon,Male ,hosteller ,16,mh_k ,,internal 
+148,14BCB0001,p.shubham1996@gmail.com,Shubham Pandey,9952343212,Hackathon+Ideathon,Male ,hosteller ,302,mh_e ,,internal 
+149,,,,,,,,,,,
+150,16BEC0177,jiten.dhingra2016@vitstudent.ac.in,Jiten Dhingra ,9894264263,Hackathon,Male ,hosteller ,357,mh_g ,,internal 
+151,16BEC0469,palmakir99@gmail.com,Pruthvesh Desai,9786111331,Hackathon,Male ,hosteller ,448,mh_l ,,internal 
+152,16BCB0095,shubhamtunwal97@gmail.com,Shubham Tunwal ,7604809046,Hackathon,Male ,hosteller ,314,mh_f ,,internal 
+153,16BEI0011,sreyaphoenix97@gmail.com,Sreya Dey,9674489110,Hackathon,Female ,hosteller ,LHF 630 ,lh_other ,,internal 
+154,16bme0132,gshruti1998@gmail.com,Shruti Gangopadhyay,9940321315,Hackathon,Female ,hosteller ,F827 ,lh_other ,,internal 
+155,15BCE0582,aditya.chellam2015@vit.ac.in,Aditya Chellam,9765083003,Hackathon,Male ,hosteller ,347,mh_da ,,internal 
+156,15BEE0012,nehasinhaneha1@gmail.com,Neha Sinha,7868099350,Ideathon,Female ,hosteller ,910,lh_e ,,internal 
+157,16BCE0046,maaheen.jaiswal@rediffmail.com,Maaheen Jaiswal,9585344468,Hackathon+Ideathon,Male ,hosteller ,536,mh_l ,,internal 
+158,16BIT0005,ashishommeera@gmail.com,Ashish Tiwari,9838821669,Hackathon+Ideathon,Male ,hosteller ,506,mh_l ,,internal 
+159,14BCB0085,siddharthvaranasi01@gmail.com,Siddharth Varanasi,9597633651,Hackathon,Male ,hosteller ,388,mh_f ,,internal 
+160,16BCE0983,kevin.abraham335@gmail.com,Kevin Abraham ,7092208884,Hackathon,Male ,hosteller ,707,mh_k ,,internal 
+161,14MSE0364,aadithyavarma@gmail.com,Aadirhyavarma,9495557711,Hackathon+Ideathon,Male ,hosteller ,1018,mh_l ,,internal 
+162,16BME0086,adarsh.agarwal2016@vitstudent.ac.in,Adarsh Agarwal,9618029732,Hackathon,Male ,hosteller ,114,mh_a ,,internal 
+163,17BCE0898,avina.2017@vitstudent.ac.in,Avina,9003411105,Hackathon,Female ,hosteller ,127,lh_other ,,internal 
+164,15BIT0180,745kishlay.sr@gmail.com,Kislay Srivastava,9585432074,Hackathon+Ideathon,Male ,hosteller ,322,mh_e ,,internal 
+165,17BIT0136,sankalpjain99@gmail.com,Sankalp Jain,8700138574,Hackathon,Male ,hosteller ,429,mh_p ,,internal 
+166,16BCE0892,prawigyapariyar@gmail.com,Prawigya Pariyar,9609042762,Ideathon,Male ,hosteller ,422,mh_a ,,internal 
+167,16BIS0127,sumankumar.pandey2016@vitstudent.ac.in,Suman kumar pandey,9786111460,Hackathon+Ideathon,Male ,hosteller ,G-303 ,mh_g ,,internal 
+168,16BIT0247,ankitrathore00793@gmail.com,Ankit Priyadarshi,7542038231,Ideathon,Male ,hosteller ,920,mh_k ,,internal 
+169,16BCE0832,jain.samvit@gmail.com,Samvit Singh Jain,9626222158,Hackathon+Ideathon,Male ,hosteller ,416,mh_f ,,internal 
+170,16BCE2155,aryan.gupta2016@vitstudent.ac.in,Aryan Gupta,7010638970,Hackathon+Ideathon,Male ,hosteller ,445,mh_e ,,internal 
+171,16BCE0206,siddhant.nagelia2016@vitstudent.ac.in,Siddhant Nagelia ,7604811020,Hackathon+Ideathon,Male ,hosteller ,922,mh_k ,,internal 
+172,14BCE0725,bitloks@gmail.com,SHUBHAM JAIN,9952549997,Hackathon+Ideathon,Male ,hosteller ,908,mh_h ,,internal 
+173,16BCE0541,ayush.verma2016@vitstudent.ac.in,Ayush Verma,7010725407,Hackathon+Ideathon,Male ,hosteller ,431,mh_k ,,internal 
+174,16BCI0018,ayushdosaj2313@gmail.com,Ayush Dosaj,9424668709,Hackathon+Ideathon,Male ,hosteller ,629,mh_k ,,internal 
+175,15BIT0058,shagun.khemka60@gmail.com,Shagun Khemka,9790024115,Hackathon,Male ,hosteller ,732,mh_j ,,internal 
+176,16BCI0136,arjunagarwal1998@yahoo.com,Arjun agarwal,9717966915,Hackathon,Male ,hosteller ,931,mh_k ,,internal 
+177,8301,anandaron@gmail.com,Anand H,9003652941,Hackathon,Male ,,,,Government College of engineering-Srirangam ,external 
+178,15BCB0028,vinayakkaushikk@gmail.com,Vinayak Kaushik,9585450609,Hackathon,Male ,hosteller ,141,mh_e ,,internal 
+179,15BEE0209,anishkumar.saha2015@vit.ac.in,Anish Kumar Saha,9123519655,Hackathon,Male ,hosteller ,603,mh_k ,,internal 
+180,17BCE0850,harsh19anand@gmail.com,Harsh Anand,8825264428,Hackathon,Male ,hosteller ,609,mh_m ,,internal 
+181,St thomas pala,ajaypalamthattel@gmail.com,Ajay james,9605369176,Hackathon+Ideathon,Male ,,,,St thomas pala ,external 
+182,15BCE0326,venkatasaketh90@gmail.com,T Venkata Saketh,9908218154,Hackathon,Male ,hosteller ,431,mh_h ,,internal 
+183,16BIT0122,sauravabc16@yahoo.co.in,Saurav Kumar ,8294756069,Hackathon+Ideathon,Male ,hosteller ,817,mh_k ,,internal 
+184,16BCE2051,ganateja.akula1998@mail.com,ganateja akula,7795910238,Hackathon,Male ,hosteller ,707,mh_k ,,internal 
+185,17BIT0131,utkarshmalik06@gmail.com,Utkarsh Malik,7409747373,Hackathon,Male ,hosteller ,563,mh_p ,,internal 
+186,17BCI0075,ekaansh68@gmail.com,Ekaansh Arora,8860092471,Hackathon+Ideathon,Male ,hosteller ,828,mh_m ,,internal 
+187,16BEI0073,sabareesastha.kp2016@vitstudent.ac.in,SABAREE SASTHA KP,9500982121,Ideathon,Male ,hosteller ,908,mh_k ,,internal 
+188,15BCE0539,s.vigneshwaran2015@vit.ac.in,Vigneshwaran sezhiyan,9597035996,Hackathon+Ideathon,Male ,hosteller ,329,mh_l ,,internal 
+189,16BCI0051,mohit.khandelwal2016@vitstudent.ac.in,Mohit Khandelwal,8220174991,Hackathon+Ideathon,Male ,hosteller ,319,mh_a ,,internal 
+190,16BCE0948,ramesh.aditya@gmail.com,Aditya Ramesh,9600013822,Hackathon,Male ,hosteller ,307,mh_l ,,internal 
+191,16BCE0357,satyamjindal072@gmail.com,Satyam jindal,9047888284,Hackathon,Male ,hosteller ,307,mh_l ,,internal 
+192,16BEI0067,bkishan98@gmail.com,Kishan B,9976629291,Hackathon,Male ,Day boarder ,,,,internal 
+193,17BEC0765,mohakmakin721@gmail.com,Mohak Makin,8192855044,Hackathon+Ideathon,Male ,hosteller ,1013,mh_n ,,internal 
+194,15BEE0136,aakashvarma18@gmail.com,Aakash Varma,7660066152,Hackathon+Ideathon,Male ,hosteller ,619,mh_j ,,internal 
+195,17BCI0132,rhythmgoyal98@gmail.com,RHYTHM GOYAL,9643511605,Hackathon+Ideathon,Female ,hosteller ,528 LH F block ,lh_other ,,internal 
+196,17BIT0165,nirbhay.gupta2017@vitstudent.ac.in,NIRBHAY GUPTA,9159742141,Hackathon+Ideathon,Male ,hosteller ,502,mh_p ,,internal 
+197,16BIS0102,ishan.yash17@gmail.com,Ishan,7030609563,Ideathon,Male ,hosteller ,623,mh_g ,,internal 
+198,15BEC0086,thejaravindan@gmail.com,Thej Aravindan,8867245433,Hackathon+Ideathon,Male ,hosteller ,305,mh_k ,,internal 
+199,16BEI0042,sagun.nigun97@gmail.com,Biswamoy Pattnaik,9556358714,Hackathon+Ideathon,Male ,hosteller ,313,mh_a ,,internal 
+200,15BCE2061,ananyamathur26@gmail.com,Ananya,9790646926,Hackathon+Ideathon,Female ,hosteller ,509,lh_d ,,internal 
+201,16BIT0333,s.chowdhary97@gmail.com,Sarthak Chowdhary,9582898803,Hackathon,Male ,hosteller ,920,mh_k ,,internal 
+202,15BEC0222,munish02@gmail.com,Munish Raj,9445826298,Hackathon,Male ,hosteller ,305,mh_k ,,internal 
+203,16BBT0006,apoorvamittal98@gmail.com,Apoorva Mittal,9908063336,Hackathon+Ideathon,Female ,hosteller ,F-912 ,lh_other ,,internal 
+204,16BEC0040,omadidevparanjay@gmail.com,Om Adideva Paranjay,9786622269,Hackathon+Ideathon,Male ,hosteller ,313,mh_a ,,internal 
+205,16BEC0450,varunagarwal.2016@vitstudent.ac.in,Varun Agarwal,7530000536,Hackathon,Male ,hosteller ,416,mh_a ,,internal 
+206,15BPI0085,nehabenny.mathews2015@vit.ac.in,Neha Benny Mathews,8004801602,Hackathon,Female ,hosteller ,514,lh_e ,,internal 
+207,16BIT0338 ,iprashant2402@gmail.com,Prashant Singh,7987109875,Hackathon+Ideathon,Male ,Day boarder ,,,,internal 
+208,16bci0150,jay.arun.pawar@gmail.com,Jay Pawar,7530001955,Hackathon+Ideathon,Male ,hosteller ,419,mh_e ,,internal 
+209,16BCI0162,atkare.akash@gmail.com,Akash Anand,7721857698,Hackathon+Ideathon,Male ,hosteller ,441,mh_e ,,internal 
+210,16BCI0066,keshav.moorthy2016@vitstudent.ac.in,Keshav Moorthy,9176407364,Hackathon,Male ,hosteller ,1041,mh_l ,,internal 
+211,16BEI0070,abcgrg8@gmail.com,Hello,9586235684,Hackathon,Male ,hosteller ,506,mh_n ,,internal 
+212,16BCE0435,subhasish9871@gmail.com,Subhasish Das,9940615198,Hackathon+Ideathon,Male ,hosteller ,651,mh_g ,,internal 
+213,16BCS0023,samaan.azami@gmail.com,SAMAAN AZAMI,9087639404,Hackathon,Male ,Day boarder ,,,,internal 
+214,17BCE2021,sakshi_kanwar@live.com,SAKSHI KANWAR,7015950952,Ideathon,Female ,hosteller ,F-321 ,lh_other ,,internal 
+215,15BCE0256,divyashaselina7@gmail.com,Divyasha Agarwal,9790024265,Hackathon+Ideathon,Female ,hosteller ,357,lh_d ,,internal 
+216,17BCB0055,dishi.jain2017@vitstudent.ac.in,Dishi Jain,7348925280,Hackathon,Female ,hosteller ,F-521 ,lh_e ,,internal 
+217,16BCE0955,v2vishvam@gmail.com,Vishvam Vyas,8765387241,Hackathon,Male ,hosteller ,662,mh_l ,,internal 
+218,16BCI0105,saketjajoo77@gmail.com,Saket Jajoo,9427499789,Hackathon+Ideathon,Male ,hosteller ,661,mh_l ,,internal 
+219,16BEI0053,r.raaghavi2016@vitstudent.ac.in,Raaghavi,7530000285,Hackathon,Female ,hosteller ,E-Annexe449 ,lh_ea ,,internal 
+220,16BCE2063,nakuldevkhajuria@gmail.com,Nakul dev khajuria,9786777212,Hackathon+Ideathon,Male ,hosteller ,706,mh_l ,,internal 
+221,14BIT0236,bhatia.shubham37@gmail.com,Shubham Bhatia,9626532333,Hackathon+Ideathon,Male ,hosteller ,17,mh_k ,,internal 
+222,16BCE0164,suchitamehta1598@gmail.com,Suchita Mehta,8849691453,Hackathon,Female ,hosteller ,703,mh_other ,,internal 
+223,16BEC0430,kartikeya.anand2016@vitstudent.ac.in,Kartikeya Anand,7530006625,Hackathon,Male ,hosteller ,948,mh_h ,,internal 
+224,16BCE0639,ranjangoyal98@gmail.com,Ranjan Goyal,9087000912,Hackathon,Male ,hosteller ,360,mh_l ,,internal 
+225,16BCE0686,dhruv.goel2016@vitstudent.ac.in,Dhruv Goel,8668149834,Hackathon,Male ,hosteller ,1048,mh_l ,,internal 
+226,16BIT0108,shwetabh.dixit@gmail.com,Shwetabh Dixit,9894260763,Hackathon,Male ,hosteller ,830,mh_l ,,internal 
+227,16BCE2320,akashsmaran.majety2016@vitstudent.ac.in,Akash Smarsn,9585111230,Hackathon,Male ,hosteller ,1048,mh_l ,,internal 
+228,14BCE0521,mustafa.52.1996@gmail.com,Mustafa,919833451538,Hackathon+Ideathon,Male ,Day boarder ,,,,internal 
+229,16BIT0242,vishistvvishy@gmail.com,Vishist Varugeese ,9442799642,Hackathon,Male ,hosteller ,740,mh_l ,,internal 
+230,17BEM0068,harivenkatpratap@gmail.com,G HARI VENKATA PRATAP REDDY,7995362152,Hackathon,Male ,hosteller ,371,mh_p ,,internal 
+231,17BEM0078,nvskalyankumar1234@gmail.com,N V S KALYAN KUMAR,7036100338,Hackathon,Male ,hosteller ,370,mh_p ,,internal 
+232,17BCE0166,yupadhyay35@gmail.com,YASH UPADHYAY,8190874364,Hackathon+Ideathon,Male ,hosteller ,832,mh_n ,,internal 
+233,16BME0164,saimaniam197@gmail.com,Sai subramaniam,9498062082,Hackathon,Male ,hosteller ,225,mh_c ,,internal 
+234,16BPI0018,aswinshankharan@gmail.com,Aswin Shankharan,7550050956,Hackathon,Male ,hosteller ,120,mh_b ,,internal 
+235,16BIT0043,shreyas.jhamb2016@vitstudent.ac.in,Shreyas jhamb,7530000624,Hackathon,Male ,hosteller ,756,mh_j ,,internal 
+236,16BCI0031,rohandahiya@outlook.in,Rohan Dahiya,7530009110,Hackathon,Male ,hosteller ,607,mh_h ,,internal 
+237,IS201501020,sriharsha.g15@iiits.in,Sri Harsha Gajavalli,9100753548,Hackathon+Ideathon,Male ,,,,IIIT CHITTOOR ,external 
+238,15EC095,umamageswari1910@gmail.com,Uma mageswari R,9500263950,Hackathon+Ideathon,Female ,,,,Thanthai periyar government institute of technology ,external 
+239,17BME0046,piyushrock9991@gmail.com,Piyush Madhwani,7014556710,Hackathon,Male ,hosteller ,337,mh_n ,,internal 
+240,14BCE0720,harshitmanchanda75@gmail.com,Harshit Manchanda,9597632707,Hackathon+Ideathon,Male ,hosteller ,614,mh_h ,,internal 
+241,17BCE0504,harikishoreadabala982000@gmail.com,Hari Kishore,-8328552841,Hackathon,Male ,hosteller ,631,mh_p ,,internal 
+242,16BCE0888,aishani.bangia2016@vitstudent.ac.in,Aishani Bangia,8319853523,Hackathon,Female ,hosteller ,207,lh_e ,,internal 
+243,16BCE0641,jhanvi.khanna2016@vitstudent.ac.in,Jhanvi Khanna,8743928317,Hackathon,Female ,hosteller ,721,lh_d ,,internal 
+244,16BIS0047,s.karthika312@gmail.com,S. Karthika,8396934825,Hackathon+Ideathon,Female ,hosteller ,717,lh_d ,,internal 
+245,16BIT0246,sweta.srivastava2016@vitstudent.ac.in,Sweta Srivastava,8870553831,Hackathon,Female ,hosteller ,207,lh_e ,,internal 
+246,17BCB0090,rajatg98@gmail.com,Rajat Gupta,8700242877,Hackathon+Ideathon,Male ,hosteller ,821,mh_m ,,internal 
+247,16BCE0828,shivani.priya98@gmail.com,Shivani Priya,984333982,Hackathon,Female ,hosteller ,E-206 ,lh_e ,,internal 
+248,IS201511027,abhishek.m15@iiits.in,M R Abhishek,9492424560,Hackathon,Male ,,,,IIIT-S ,external 
+249,201501029,vagdevi.k15@iiits.in,K.Vagdevi,8501992139,Hackathon,Female ,,,,IIIT SRICITY ,external 
+250,9150154443,ajd1996@hotmail.com,Abhay Jatin Doshi,919150154443,Hackathon,Male ,,,,Zoho Corporation ,external 
+251,311414106045,narayanan435@gmail.com,N.Mahadevan,8870033469,Hackathon,Male ,,,,Meenakshi college of engineering ,external 
+252,16BEC0882,anushka.berry2016@vitstudent.ac.in,ANUSHKA BERRY,9843999252,Hackathon,Female ,hosteller ,204,lh_e ,,internal 
+253,16BCE0135,saurav.panigrahi2016@vitstudent.ac.in,Saurav Panigrahi,8879226317,Hackathon,Male ,hosteller ,347,mh_l ,,internal 
+254,1MV15CS073,komarina.pavankalyan@gmail.com,Pavan Kalyan,9019494616,Hackathon,Male ,,,,SMVIT ,external 
+255,16BCE2039,harshvardhan.sinha2016@vitstudent.ac.in,HARSHVARDHAN SINHA,7530007422,Hackathon,Male ,hosteller ,575,mh_l ,,internal 
+256,15BEE0178,anuragsarkar250@gmail.com,anurag,9790031200,Hackathon,Male ,hosteller ,627,mh_h ,,internal 
+257,15GCEBCS147,suveshk47@gmail.com,Suvesh Kumar,8542094022,Hackathon+Ideathon,Male ,,,,Galgotia College of Engineering and Technology ,external 
+258,16BCE0253,kushagra.agawal2016@vitstudent.ac.in,Kushagra Agrawal,7530003378,Ideathon,Male ,hosteller ,748,mh_l ,,internal 
+259,15BEC0584,bvsbrk@gmail.com,bharath,7871232197,Hackathon,Male ,hosteller ,403,mh_k ,,internal 
+260,15BCE0327,rishivamshi0079@gmail.com,Rishi Vamshi,9154000079,Hackathon,Male ,hosteller ,817,mh_h ,,internal 
+261,17BCOM490,chiraggupta104@gmail.com,Chirag Gupta,9179113043,Hackathon,Male ,,,,Jecrc University ,external 
+262,15BCE0567,abhishek.ranjan2015@vit.ac.in,ABHISHEK RANJAN,9790608434,Hackathon,Male ,hosteller ,G-536 ,mh_g ,,internal 
+263,17BCE0984,mailtosparshsri@gmail.com,Sparsh Srivastava,7081685465,Hackathon+Ideathon,Male ,hosteller ,1107,mh_n ,,internal 
+264,17BCE0044,apoorvsingh015@gmail.com,Apoorv Singh,8619457248,Hackathon+Ideathon,Male ,hosteller ,22,mh_m ,,internal 
+265,16BME2034,yash.kamal.singh@gmail.com,Shreyash Singh,8220676280,Hackathon,Male ,hosteller ,342,mh_l ,,internal 
+266,16BEC0521,lasyaharini29@gmail.com,Lasya,7358592218,Hackathon+Ideathon,Female ,hosteller ,F711 ,mh_other ,,internal 
+267,15BCE0924,pavankoushik22@gmail.com,Pavan Koushik,9003694961,Hackathon,Male ,hosteller ,403,mh_k ,,internal 
+268,AICTE FILE NO:south Central 1-69722365/2012 EOA,sushanthavs0861@gmail.com,A V 'S SUSHANTH,9515174092,Hackathon,Male ,,,,Sree Vidyanikethan engineering college Tirupati ,external 
+269,16BCE0422,yatharth.chandna2016@vitstudent.ac.in,Yatharth,9787633386,Hackathon+Ideathon,Male ,hosteller ,422,mh_a ,,internal 
+270,13MSE0254,ramkishorevit@gmail.com,Ramkishore V S,8056987980,Hackathon+Ideathon,Male ,Day boarder ,,,,internal 
+271,16BCS0079,priya.srivastava2016@vitstudent.ac.in,Vagisha,7530006443,Hackathon,Female ,hosteller ,830,lh_e ,,internal 
+272,16BCE0844,shyamlisingh168@gmail.com,Shyamli Singh,9629194289,Hackathon,Female ,hosteller ,110,lh_e ,,internal 
+273,15BMD0044 ,narpratham.vijay2015@vit.ac.in,Pratham Nar ,7358309980,Hackathon+Ideathon,Male ,hosteller ,740,mh_g ,,internal 
+274,16BIT0209,drajthakkar@gmail.com,Dharit Thakkar,9944322286,Hackathon+Ideathon,Male ,hosteller ,647,mh_l ,,internal 
+275,16BIT0392,aaftabsingh7@gmail.com,Aaftab Singh,7530000539,Hackathon,Male ,hosteller ,407,mh_l ,,internal 
+276,16BCB0086 ,rhythmasahu@gmail.com,Rhythm sahu,9790222634,Hackathon,Male ,,,,,internal 
+277,16BCE0170,nimit.agrawal2016@vitstudent.ac.in,NIMIT AGRAWAL,8989700576,Hackathon,Male ,hosteller ,531,mh_k ,,internal 
+278,16BCE2212,abnv15@gmail.com,Abhinav Chinta,9000076405,Hackathon+Ideathon,Male ,hosteller ,231,mh_e ,,internal 
+279,16BCE2117,vineel.krishnamsetty2016@vitstudent.ac.in,Vineel krishnamsetty,9494641973,Hackathon,Male ,hosteller ,445,mh_j ,,internal 
+280,15BME0082,hardik.bhardwaj2015@vit.ac.in,Hardik bhardwaj,9952111283,Hackathon,Male ,hosteller ,109,mh_l ,,internal 
+281,15BIT0328,gauravmishra877@gmail.com,Gaurav Mishra,8056921941,Hackathon,Male ,hosteller ,610,mh_l ,,internal 
+282,16BIT0453,krishnakumar.mahto2015@vitstudent.ac.in,Krishna Kumar Mahto,8290053305,Hackathon+Ideathon,Male ,,,,,internal 
+283,16BCI0091,sriharsha.kavalipati2016@vitstudent.ac.in,Sri Harsha Kavalipati,9159333711,Hackathon,Male ,hosteller ,624,mh_k ,,internal 
+284,14BCE0041,tstream.h@outlook.com,THIYAGARAJ T,9843771996,Hackathon,Male ,Day boarder ,,,,internal 
+285,16BCE0160,arkadeepta.roy2016@vitstudent.ac.in,Arkadeepta Roy,9436927585,Hackathon,Male ,hosteller ,334,mh_d ,,internal 
+286,16BIT0179,varun.agarwal2016@vitstudent.ac.in,Varun Agarwal,7530003385,Hackathon+Ideathon,Male ,hosteller ,447,mh_h ,,internal 
+287,16BIT0372,kanishkagarwal11@gmail.com,Kanishk Agarwal,9944666168,Hackathon+Ideathon,Male ,hosteller ,607,mh_g ,,internal 
+288,16BCE0343,divyatomar11@gmail.com,Divya Tomar,7530007757,Hackathon,Female ,hosteller ,628,lh_other ,,internal 
+289,16BIT0457,aditya.samota2016@vitstudent.ac.in,ADITYA SAMOTA,9869326475,Hackathon,Male ,hosteller ,833,mh_l ,,internal 
+290,16BIT0133,ekansh.gayakwad2016@vitstudent.ac.in,Ekansh,7691985423,Hackathon+Ideathon,Male ,hosteller ,340,mh_l ,,internal 
+291,16BIT0177,ankit.kumar2016d@vitstudent.ac.in,Ankit Kumar,7530003398,Hackathon+Ideathon,Male ,hosteller ,215,mh_l ,,internal 
+292,16BCE0971,resham.dalal2016@vitstudent.ac.in,Resham Dalal,7015726354,Hackathon,Female ,hosteller ,420,lh_c ,,internal 
+293,1KS16CS001,nateriver210@gmail.com,Abhishek M,9663265931,Hackathon+Ideathon,Male ,,,,K.S Institute of Technology ,external 
+294,16BIT0351,anmolthomas1997@gmail.com,Anmol Thomas,9479045549,Hackathon+Ideathon,Male ,hosteller ,406,mh_c ,,internal 
+295,15BCE0000,akdjsa@gmail.com,aalind test,1234567898,Hackathon+Ideathon,Male ,hosteller ,136,mh_b ,,internal 
+296,15BCE0587,vanshbadkul@gmail.com,Vansh Badkul,7354273542,Hackathon+Ideathon,Male ,hosteller ,807,mh_k ,,internal 
+297,15BCE0663,nakul.sakhuja@gmail.com,Nakul Sakhuja,9790610196,Hackathon,Male ,hosteller ,716,mh_j ,,internal 
+298,16BCE0245,yashrachhadia7844@gmail.com,Rachhadia Yashkumar Nileshbhai,8107717735,Hackathon,Male ,hosteller ,309,mh_a ,,internal 
+299,16BCE0375,shubhammishra.2016a@vitstudent.ac.in,Shubham Mishra,9826984740,Hackathon,Male ,hosteller ,309,mh_a ,,internal 
+300,16BCE0124,aditya3.1416@gmail.com,Aditya Tiwari,7530003329,Hackathon+Ideathon,Male ,hosteller ,922,mh_k ,,internal 
+301,14BIT0261,aryparikh@gmail.com,Aryamaan Parikh,8310417174,Ideathon,Male ,hosteller ,454,mh_j ,,internal 
+302,16BCE2303 ,shubham.shukla2016@vitstudent.ac.in,Shubham Shukla,7397451432,Hackathon+Ideathon,Male ,hosteller ,828,mh_k ,,internal 
+303,15MIS0110,dishant.sheth@hotmail.com,Dishant Nirov Sheth,9042775694,Hackathon,Male ,hosteller ,472,mh_f ,,internal 
+304,15BCE0196,arunavsaxena27@gmail.com,Arunav Saxena,9585600251,Hackathon,Male ,hosteller ,659,mh_f ,,internal 
+305,15BCB0076,rishabh19038@yahoo.in,RISHABH MITTAL,9571606717,Hackathon,Male ,hosteller ,146,mh_f ,,internal 
+306,17BCE0983,usmaniubaid@gmail.com,UBAID USMANI,7905438879,Hackathon+Ideathon,Male ,hosteller ,1140,mh_n ,,internal 
+307,16BCE0752,r.anuraag2016@vitstudent.ac.in,R Anuraag,9884034838,Hackathon,Male ,hosteller ,102,mh_k ,,internal 
+308,16BCE0941,gpallav6.pg@gmail.com,Pallav Gupta ,8860399373,Hackathon,Male ,hosteller ,102,mh_k ,,internal 
+309,16BCE0944,akshay.arora2016@vitstudent.ac.in,Akshay Arora,9894999493,Hackathon,Male ,hosteller ,102,mh_k ,,internal 
+310,16BIT0262,lohiyashubham12@gmail.com,SHUBHAM LOHIYA,7010426381,Hackathon,Male ,hosteller ,441,mh_f ,,internal 
+311,16BCE2319,aditya.dewani2016@vitstudent.ac.in,Aditya Dewani ,9626333680,Hackathon+Ideathon,Male ,hosteller ,306,mh_g ,,internal 
+312,16BCE0498,shibasish.gupta2016@vitstudent.ac.in,Shib asish Gupta,9940888329,Hackathon+Ideathon,Male ,hosteller ,828,mh_k ,,internal 
+313,16BCE0200,lakshaysuthar25@gmail.com,Lakshay Suthar,8195990902,Hackathon,Male ,hosteller ,444,mh_f ,,internal 
+314,17BEC0784,tarunya1428@gmail.com,Tarunya ,8619566203,Hackathon+Ideathon,Male ,hosteller ,919,mh_n ,,internal 
+315,16BCA0048,hammadzaid.n2016@vitstudent.ac.in,Hammad zaid N,7010915124,Hackathon,Male ,Day boarder ,,,,internal 
+316,16BIT0104,sauravbhagat6969@gmail.com,Saurav,7765054565,Hackathon+Ideathon,Male ,hosteller ,432,mh_l ,,internal 
+317,16BCE0353,kaustubhd9@gmail.com,Kaustubh deokar,9786711186,Hackathon,Male ,hosteller ,331,mh_a ,,internal 
+318,14BCE0114,raj.abhishek.01.1@gmail.com,Abhishek Raj,9443130081,Hackathon,Male ,hosteller ,440,mh_h ,,internal 
+319,17BCE0642,mittalkartik87@gmail.com,Kartik Mittal,7503797579,Hackathon+Ideathon,Male ,hosteller ,22,mh_m ,,internal 
+320,16BCE0547,monishblj@gmail.com,Monish,9884417349,Hackathon,Male ,hosteller ,926,mh_k ,,internal 
+321,17BIT0231,as.tanwar3198@gmail.com,ASHWANI SINGH TANWAR,8109680803,Hackathon+Ideathon,Male ,hosteller ,425,mh_m ,,internal 
+322,16BCE0574,akashmrk@gmail.com,Radha Krishnan M,8754744312,Hackathon+Ideathon,Male ,hosteller ,424,mh_k ,,internal 
+323,16BIS0137,t.dhiraj1999@gmail.com,T.dhiraj,9390570371,Hackathon,Male ,hosteller ,309,mh_a ,,internal 
+324,17BIT0322,sidzpatel123456@gmail.com,Siddharth Patel ,9925576355,Hackathon+Ideathon,Male ,hosteller ,1120,mh_m ,,internal 
+325,16BCB0138,thilagavathi.l2016@vitstudent.ac.in,Thilagavathi. L,7397447411,Hackathon,Female ,hosteller ,326,lh_e ,,internal 
+326,17BIT0261,pritika.royc@gmail.com,Pritika Roy Chowdhury ,9080630859,Hackathon+Ideathon,Female ,hosteller ,102,mh_other ,,internal 
+327,16-uec-208,balajikrishnan98@gmail.com,Balaji Krishnan R,9176999423,Ideathon,Male ,,,,Loyola College ,external 
+328,16MCA0098,gowtham.b2013@gmail.com,Gowtham B,9245334457,Hackathon,Male ,Day boarder ,,,,internal 
+329,16BCE2222,anshuman.biswas2016@vitstudent.ac.in,Anshuman Biswas,9087777346,Hackathon+Ideathon,Male ,hosteller ,333,mh_f ,,internal 
+330,16BIT0165,rishabhm120497@gmail.com,Rishabh Mishra,7507473764,Hackathon,Male ,hosteller ,819,mh_k ,,internal 
+331,15BCE0306,prince.ansari2015@vit.ac.in,Prince Ansari,7717790129,Ideathon,Male ,hosteller ,433,mh_g ,,internal 
+332,16BCE2302 ,sethiamayank14@gmail.com,Mayank Sethia ,9674060769,Hackathon+Ideathon,Male ,hosteller ,662,mh_l ,,internal 
+333,16BCE2093,vasudevsharma74@yahoo.com,Vasudev Sharma,9790554447,Hackathon,Male ,hosteller ,614,mh_f ,,internal 
+334,15BCB0032,aadityapraveen.vaidya2015@vit.ac.in,Aaditya Vaidya,8989409369,Hackathon,Male ,hosteller ,545,mh_l ,,internal 
+335,15BCB0060,dev.kumar2015@vit.ac.in,Dev Kumar,9585352934,Hackathon+Ideathon,Male ,hosteller ,544,mh_l ,,internal 
+336,16BIT0099,sye.sabeeha@gmail.com,Syed Sabeeha,7530007725,Hackathon+Ideathon,Female ,hosteller ,730,lh_d ,,internal 
+337,15BCE0958,mayurshastri97@gmail.com,Mayur Shastri,9790001351,Hackathon,Male ,hosteller ,146,mh_f ,,internal 
+338,15BCE0880,rshtmudgal@gmail.com,Arushit Mudgal,9790064737,Hackathon,Male ,hosteller ,735,mh_j ,,internal 
+339,16BCE0890,mehul.sethia2016@vitstudent.ac.in,Mehul Sethia,9787455509,Hackathon+Ideathon,Male ,hosteller ,730,mh_k ,,internal 
+340,15BCE0809,kunal.kalra2015@vit.ac.in,Kunal Kalra,9790053579,Hackathon,Male ,hosteller ,701,mh_k ,,internal 
+341,14BCE0000,dfsdksmdk@gmil.com,ckdmck,9784527845,Hackathon,Male ,hosteller ,874,mh_a ,,internal 
+342,16BIT0071,waralepushkar.sanjay2016@vitstudent.ac.in,Pushkar Warale ,8190099987,Hackathon,Male ,hosteller ,102,mh_k ,,internal 
+343,16BIT0040,neha.balasundaram2016@vitstudent.ac.in,Neha Balasundaram,8124905606,Hackathon,Female ,hosteller ,330,lh_d ,,internal 
+344,16BIS0174,dhruvitsakariya1998@gmail.com,Dhruvit Sakariya ,8401101132,Hackathon,Male ,hosteller ,309,mh_a ,,internal 
+345,16BCE0857,tejus.verma2016@vitstudent.ac.in,Tejus Verma,9650471721,Hackathon,Male ,hosteller ,916,mh_j ,,internal 
+346,16MIS0183,Sanjhana.ramesh@gmail.com,Sanjhana Ramesh ,9711478534,Hackathon+Ideathon,Female ,hosteller ,F912 ,lh_other ,,internal 
+347,16BEI0076,pavankgn@gmail.com,Pavan Kumar G N,9566999512,Hackathon,Male ,hosteller ,906,mh_l ,,internal 
+348,14BCE0512,priyaljan2003@gmail.com,Priyal Jain,7639810499,Ideathon,Female ,hosteller ,618,lh_e ,,internal 
+349,15BCE0318,karishnu@gmail.com,Karishnu Poddar,9867580069,Hackathon,Male ,hosteller ,113,mh_l ,,internal 
+350,15bec0436,ankityadv.144@gmail.com,ankit,9003757402,Hackathon,Male ,hosteller ,701,mh_k ,,internal 
+351,16BIT0217,kushagratandon997@gmail.com,Kushagra Tandon,7530000796,Hackathon+Ideathon,Male ,hosteller ,445,mh_l ,,internal 
+352,17BCE2071,nikhilb416@gmail.com,Nikhil,9871690360,Hackathon+Ideathon,Male ,hosteller ,21,mh_m ,,internal 
+353,16BIT0375,divyansh.saxena2016@vitstudent.ac.in,Divyansh Saxena,7530008144,Hackathon,Male ,hosteller ,438,mh_l ,,internal 
+354,16BIT0109,harshitbhatia28698@gmail.com,Harshit Bhatia,7092884440,Hackathon+Ideathon,Male ,hosteller ,445,mh_l ,,internal 
+355,15BEC0655,anupkashyap7@gmail.com,Anup Kashyap,8870032099,Hackathon,Male ,hosteller ,503,mh_k ,,internal 
+356,15BEC0060,tshere97@gmail.com,Aditya TS,9003197047,Hackathon,Male ,hosteller ,503,mh_k ,,internal 
+357,16BCB0079,rathi.sharad97@gmail.com,Sharad Rathi,9410145970,Hackathon,Male ,hosteller ,311,mh_b ,,internal 
+358,16BEC0758,ashwinagesh@gmail.com,A.S.Ashwin,9940777602,Hackathon,Male ,hosteller ,419,mh_k ,,internal 
+359,16BEC0461,keshavbiyani98@gmail.com,Keshav ,7989142368,Hackathon,Male ,hosteller ,G 752 ,mh_da ,,internal 
+360,17bce0764 ,sumanto.pal2017@vitstudent.ac.in,Sumanto Pal,7990956106,Hackathon,Male ,hosteller ,444,mh_p ,,internal 
+361,17BCE2156,anunaybagga@gmail.com,Anunay Rajesh Bagga,9762075555,Hackathon,Male ,hosteller ,1134,mh_m ,,internal 
+362,16BCE0772,ayush.patro@gmail.com,Ayush Patro,8249047373,Hackathon+Ideathon,Male ,hosteller ,426,mh_c ,,internal 
+363,17BCE0267,sameeranbandishti93@gmail.com,Sameeran Bandishti,9003300378,Ideathon,Male ,hosteller ,816,mh_m ,,internal 
+364,17BCB0052,av2505@gmail.com,Anshul Verma,9003301091,Ideathon,Male ,hosteller ,816,mh_m ,,internal 
+365,16BEC0312,nikhil.choudhary2016@vitstudent.ac.in,Nikhil Choudhary,9092899907,Hackathon+Ideathon,Male ,hosteller ,920,mh_k ,,internal 
+366,16BEC0753,gawankaraditya09@gmail.com,Aditya Gawankar,9787044407,Hackathon,Male ,hosteller ,923,mh_k ,,internal 
+367,16BCB0045,davidsgeorgek@gmail.com,David S George,9632498360,Hackathon+Ideathon,Male ,hosteller ,923,mh_k ,,internal 
+368,16BIS0002,varun.agarwal2016a@vitstudent.ac.in,varun agarwal,9786999531,Hackathon,Male ,hosteller ,424,mh_k ,,internal 
+369,16BIS0018,vipul.jindal2016@vitstudent.ac.in,Vipul Jindal,9994417406,Hackathon,Male ,hosteller ,424,mh_k ,,internal 
+370,17BIT0241,vrajkishan@gmail.com,Vraj Dugar,9879202825,Ideathon,Male ,hosteller ,1110,mh_n ,,internal 
+371,16BIS0046,ajinkyamilind.prabhu2016@vitstudent.ac.in,Ajinkya Prabhu,7972725410,Hackathon,Male ,hosteller ,920,mh_k ,,internal 
+372,15BEC0510,abhijithsatyasai@gmail.com,Abhijith Satya Sai,9791984806,Hackathon,Male ,hosteller ,503,mh_k ,,internal 
+373,15BMD0035,asheeshagra@gmail.com,Asheesh Maheshwari ,7599050510,Hackathon,Male ,hosteller ,1011,mh_l ,,internal 
+374,16BIT0237,shadyachyuth@gmail.com,Achyuth,9042429262,Hackathon,Male ,Day boarder ,,,,internal 
+375,15BMD0052,mirfaisal.ahmed2015@vit.ac.in,Mir Faisal Ahmed,9790051632,Hackathon,Male ,hosteller ,524,mh_e ,,internal 
+376,16BIT0045,mehul.sachdeva2016@vitstudent.ac.in,Mehul Sachdeva,9999911746,Hackathon,Male ,hosteller ,1044,mh_l ,,internal 
+377,16BIT0153,vikrant.singh2016@vitstudent.ac.in,Vikrant Singh,8190044400,Hackathon,Male ,hosteller ,358,mh_l ,,internal 
+378,16BIS0049,dikshantjain.2016@vitstudent.ac.in,Dikshant jain,9655888301,Hackathon,Male ,hosteller ,328,mh_e ,,internal 
+379,16BIS0084,ridha.sardana2016@vitstudent.ac.in,Ridha Sardana,7530007706,Hackathon,Female ,hosteller ,323,lh_c ,,internal 
+380,15bce0087,yash.aggarwal2015@vit.ac.in,Yash aggarwal,9790020449,Hackathon,Male ,hosteller ,1011,mh_l ,,internal 
+381,16BCE0965,sdhanyaabhirami@gmail.com,S. Dhanya Abhirami,9751000120,Hackathon,Female ,hosteller ,449,lh_ea ,,internal 
+382,15BCE0268,aman.goyalwd@gmail.com,Aman Goyal,9790052239,Hackathon,Male ,hosteller ,811,mh_l ,,internal 
+383,15BCE0654,varund.suvarna2015@vit.ac.in,Varun D Suvarna,9910715105,Hackathon,Male ,hosteller ,811,mh_l ,,internal 
+384,16BCE0572,rkansal95@gmail.com,Rishabh Kansal,8860165000,Hackathon,Male ,hosteller ,629,mh_k ,,internal 
+385,15BCE0617,bhaveshvasnani197@gmail.com,Bhavesh Vasnani,9003673155,Hackathon,Male ,hosteller ,1029,mh_l ,,internal 
+386,17BCE2010,shivamsethi98@yahoo.in,Shivam Sethi,9915839359,Hackathon,Male ,hosteller ,P-508 ,mh_p ,,internal 
+387,16BCE0817,harshsharma3030@gmail.com,HARSH SHARMA,9585011136,Hackathon,Male ,hosteller ,3,mh_k ,,internal 
+388,17BCE0966,nalinpandohi20@yahoo.com,Nalin Pandohi,9176338503,Hackathon,Male ,hosteller ,1012,mh_n ,,internal 
+389,16BIS0058,tanoj.rameshlangore2016@vitstudent.ac.in,Tanoj Ramesh langore ,9626555630,Hackathon,Male ,hosteller ,323,mh_a ,,internal 
+390,16BCE2140,utkarsh.bansal2016@vitstudent.ac.in,Utkarsh Bansal ,9487517531,Hackathon,Male ,hosteller ,739,mh_j ,,internal 
+391,17BCi0042,rahul46940@gmail.com,Rahul,8826172251,Hackathon,Male ,hosteller ,926,mh_n ,,internal 
+392,15BCE0380,indraneelbrahma@gmail.com,Indraneel Brahma,9477522790,Hackathon,Male ,hosteller ,667,mh_l ,,internal 
+393,16BEE0077,sushantii.kerani@gmail.com,Sushanti,9047611187,Hackathon,Female ,hosteller ,E 117 ,mh_other ,,internal 
+394,16BCE0332,snehal.agarwal34@gmail.com,Snehal Agarwal ,9626444781,Hackathon,Female ,hosteller ,114,lh_e ,,internal 
+395,15BIT0044 ,arnav.bhutani2015@vit.ac.in,Arnav Bhutani ,9811549848,Hackathon,Male ,hosteller ,K-807 ,mh_k ,,internal 
+396,16MTR0052,rvaishali4@gmail.com,Vaishali,8870279035,Hackathon,Female ,Day boarder ,,,,internal 
+397,15BIT0225 ,sunayna.ray2015@vit.ac.in,Sunayna Ray ,9790018508,Hackathon,Female ,hosteller ,416,lh_c ,,internal 
+398,16phd0461,svramasubbareddy1219@gmail.com,S.ramasubbareddy,7799698099,Hackathon,Male ,Day boarder ,,,,internal 
+399,15BIT0167,amisharani30@gmail.com,Amisha Rani ,9790071744,Hackathon,Female ,hosteller ,416,lh_c ,,internal 
+400,16bce2175,kkhokhar56@gmail.com,Kunal khokhar,9992642800,Hackathon,Male ,hosteller ,920,mh_k ,,internal 
+401,16BIT0117,mehul.gupta2016@vitstudent.ac.in,MEHUL GUPTA,9487559765,Hackathon,Male ,hosteller ,228,mh_e ,,internal 
+402,16BIT0082,saqibpasha6@gmail.com,Saqib Pasha,7708851760,Hackathon,Male ,hosteller ,347,mh_l ,,internal 
+403,16BCE0599,saksham.gupta2016@vitstudent.ac.in,Saksham Gupta,9787899907,Hackathon,Male ,hosteller ,419,mh_k ,,internal 
+404,16BIT0039,harshitasahni348@gmail.com,Harshita sahni,9629058893,Hackathon,Female ,hosteller ,F928 ,lh_other ,,internal 
+405,16BCI0204,smaindia111@gmail.com,Soumyamitra Agrawal,9924024101,Hackathon,Male ,hosteller ,378,mh_f ,,internal 
+406,16MCA0054,101rraj@gmail.com,Rahul Rajpal,8821997823,Hackathon,Male ,hosteller ,1026,mh_l ,,internal 
+407,16MCA0088,abhisekmajumdar4@gmail.com,Abhisek Mazumdar,8697935275,Hackathon,Male ,hosteller ,316,mh_k ,,internal 
+408,qqq25,qqq@sw,q qqqqqqqqqqqqqq,9999999999,Hackathon,Male ,,,,qqqq q ,external 
+409,16BIT0213,abhinav.jolly2016@vitstudent.ac.in,Abhinav jolly,7530002833,Hackathon,Male ,hosteller ,643,mh_j ,,internal 
+410,16BCI0015,yvmatts@gmail.com,Yashvardhan Mathur,8050002949,Hackathon,Male ,hosteller ,612,mh_l ,,internal 
+411,16BCE0912,vatsal.jain2016@vitstudent.ac.in,VATSAL JAIN,9967064358,Hackathon,Male ,hosteller ,416,mh_l ,,internal 
+412,16BCE0664,ana1998musib@gmail.com,Anamitra Musib,7021138240,Hackathon,Male ,hosteller ,219,mh_k ,,internal 
+413,16BME0194,srivastava.abhinav97@gmail.com,Abhinav Srivastava,7530007100,Hackathon,Male ,hosteller ,212,mh_l ,,internal 
+414,17BEC0038,rachitmanchanda@yahoo.com,Rachit Manchanda,9600822242,Hackathon+Ideathon,Male ,hosteller ,1111,mh_m ,,internal 
+415,16BCS0034,abdulhannanp007@gmail.com,Abdul hannan p,8220452011,Hackathon,Male ,Day boarder ,,,,internal 
+416,16bcs0043 ,nasikshafi@gmail.com,Mohamed nasik shafi k ,9677911014,Hackathon,Male ,Day boarder ,,,,internal 
+417,15BCE0864,suvansh.dutta21@gmail.com,Suvansh Dutta,9873940022,Hackathon,Male ,hosteller ,628,mh_f ,,internal 
+418,16BCI0203,shahaadit.prashant2016@vitstudent.ac.in,AADIT SHAH,7550027540,Hackathon,Male ,hosteller ,748,mh_g ,,internal 
+419,16BCI0181,bhawin.bengani2016@vitstudent.ac.in,BHAWIN BENGANI,8939580217,Hackathon,Male ,hosteller ,203,mh_k ,,internal 
+420,16BIS0155,akhilesh.dongre2016@vitstudent.ac.in,Akhilesh Dongre,9711990229,Hackathon,Male ,hosteller ,748,mh_g ,,internal 
+421,16BCE2076,gulati.parth98@gmail.com,Parth Gulati,9999696229,Hackathon,Male ,hosteller ,690,mh_f ,,internal 
+422,16BCE0123,aggarwal.harish43@gmail.com,Harish aggarwal,9478068086,Hackathon,Male ,hosteller ,102,mh_k ,,internal 
+423,16MCA0030,gourabdasgupta26994@gmail.com,Gourab Dasgupta ,9944111721,Hackathon,Male ,hosteller ,703,,,internal 
+424,16MCA0118,suhanivedi.d@gmail.com,Suhani Vedi,9629219325,Hackathon,Female ,hosteller ,403,lh_e ,,internal 
+425,15BEC0367,rishabh.jain2015c@vit.ac.in,Rishabh Jain,9971632638,Hackathon,Male ,hosteller ,211,mh_l ,,internal 
+426,16BIT0032,shubham.talan2016@vitstudent.ac.in,Shubham Talan,7530000275,Hackathon,Male ,hosteller ,923,mh_k ,,internal 
+427,16BIT0376,tirush.dixit2016@vitstudent.ac.in,Tirush Dixit,9585999703,Hackathon,Male ,hosteller ,923,mh_k ,,internal 
+428,15BEC0916,iroy16@gmail.com,Ishita Roy,9790611464,Hackathon,Female ,hosteller ,E Annexe 556 ,lh_ea ,,internal 
+429,15BCE0252,daksh.mehta2015@vit.ac.in,Daksh Mehta,8610201537,Hackathon,Male ,hosteller ,913,mh_j ,,internal 
+430,16BEM0082,devildivesh21@gmail.com,Divesh Sharma,7708842433,Hackathon,Male ,hosteller ,816,mh_k ,,internal 
+431,16BEI0040,amanbagaria0408@gmail.com,Aman Bagaria,9097513482,Hackathon,Male ,hosteller ,912,mh_k ,,internal 
+432,15BIT0271,nishantkumar.rai2015@vit.ac.in,Nishant Kumar Rai,9585429548,Hackathon,Male ,hosteller ,113,mh_l ,,internal 
+433,16BEE0158,mathuraditya5@gmail.com,Aditya Mathur,7708850359,Hackathon,Male ,Day boarder ,,,,internal 
+434,16BEE0221,dushyantyadav194@gmail.com,Dushyant Yadav,8825651101,Hackathon,Male ,hosteller ,708,mh_l ,,internal 
+435,16BCI0193,gaurav.gupta2016@vitstudent.ac.in,Gaurav Gupta,9706045178,Hackathon,Male ,hosteller ,426,mh_l ,,internal 
+436,16BEE0138,priyan.jaiswal2016@vitstudent.ac.in,Priyan Jaiswal,8318701748,Hackathon,Male ,hosteller ,537,mh_l ,,internal 
+437,14MSE0326,chilaka.jaswanth@gmail.com,jaswanth chilaka,9003849866,Hackathon,Male ,hosteller ,482,mh_f ,,internal 
+438,16BCB0116,akshaya.b2016@vitstudent.ac.in,Akshaya,9003131479,Hackathon,Female ,Day boarder ,,,,internal 
+439,16bce2169,sanjana.a2016@vitstudent.ac.in,Sanjana A,7598242045,Hackathon,Female ,Day boarder ,,,,internal 
+440,16BCE0593,prasanna.vlr98@gmail.com,R.Prasanna Lakshmi,9489882277,Hackathon,Female ,Day boarder ,,,,internal 
+441,16BIT0365,mgpta007@gmail.com,Mohit Gupta,8190009791,Hackathon,Male ,hosteller ,230,mh_f ,,internal 
+442,16BEC0261,medha.mani2016@gmail.com,Medha Mani,9431614092,Hackathon,Female ,hosteller ,117,lh_e ,,internal 
+443,15BEC0688,rohil.singhvi@gmail.com,Rohil Singhvi ,9003771998,Hackathon,Male ,hosteller ,367,mh_g ,,internal 
+444,15BIT0262,sanyam.5009@gmail.com,Sanyam Jain,9769696703,Hackathon,Male ,hosteller ,634,mh_j ,,internal 
+445,15BEC0107,debadeepta13@gmail.com,Debadeepta Tagore,8098469865,Hackathon,Male ,hosteller ,616,mh_k ,,internal 
+446,15BCE0341,gautham.s2015@vit.ac.in,Gautham S,9500179306,Hackathon,Male ,hosteller ,329,mh_l ,,internal 
+447,15BEC0663,krishnavadithya@gmail.com,V Krishna adithya,8643003005,Hackathon,Male ,hosteller ,364,mh_g ,,internal 
+448,16bce0617,veda.shruthi2016@vitstudent.ac.in,Veda shruthi,8838321374,Hackathon,Female ,Day boarder ,,,,internal 
+449,15BIT0353,manoaravind.r2015@vit.ac.in,Manoaravind,9578383024,Hackathon,Male ,hosteller ,202,mh_ma ,,internal 
+450,16BCE0430,aman.kumar2016a@vitstudent.ac.in,Aman kumar,9629072765,Hackathon,Male ,hosteller ,952,mh_j ,,internal 
+451,17BCE0292,shreyansh33@live.com,Shreyansh Jain,7990847898,Hackathon,Male ,hosteller ,345,mh_p ,,internal 
+452,17BCE0362,Pursharth.nohria007@gmail.com,Pursharth,7988781274,Hackathon,Male ,hosteller ,519,mh_m ,,internal 
+453,16BCI0169,adeep.biswas12@gmail.com,Adeep Biswas,8013005436,Hackathon,Male ,hosteller ,654,mh_j ,,internal 
+454,17BCE0612,raghavrajank@gmail.com,Raghav,9650130484,Ideathon,Male ,hosteller ,1005,mh_n ,,internal 
+455,17BCE0363,abhinavgupta066@gmail.com,Abhinav gupta,8191012982,Ideathon,Male ,hosteller ,1023,mh_n ,,internal 
+456,17BCE0408,debprotim.chakrabarti07@gmail.com,Debprotim Chakrabarti,8800657919,Hackathon+Ideathon,Male ,hosteller ,1036,mh_n ,,internal 
+457,16BCE0721,prakhar.lohiya2016@vitstudent.ac.in,prakhar lohiya,9589776209,Hackathon,Male ,hosteller ,645,mh_j ,,internal 
+458,16BEE0005,nishant.wadhwani2016@vitstudent.ac.in,Nishant Wadhwani,9460740058,Hackathon,Male ,hosteller ,106,mh_k ,,internal 
+459,16BCE0804,mansiagarwal451@gmail.com,Mansi Agarwal,9087772552,Hackathon,Female ,hosteller ,627,lh_other ,,internal 
+460,16BEE0203,anushkapaul99@gmail.com,Anushka Paul,8092299761,Hackathon,Female ,hosteller ,F-719 ,lh_other ,,internal 
+461,16BCI0106,shivam.khanna2016@vitstudent.ac.in,SHIVAM KHANNA,9971501291,Hackathon,Male ,hosteller ,661,mh_l ,,internal 
+462,17BCE2164,pranav.agarw@gmail.com,Pranav agarwal,8277404640,Hackathon,Male ,hosteller ,G12 ,mh_n ,,internal 
+463,17BCE0241,jha.gaurav70@gmail.com,Gaurav Jha,9810099436,Hackathon,Male ,hosteller ,912,mh_m ,,internal 
+464,17BIT0277,mehrotra.yash9@gmail.com,Yash Mehrotra,9451337054,Ideathon,Male ,hosteller ,1120,mh_m ,,internal 
+465,17BCE0693,sankalpdayal5@gmail.com,Sankalp Dayal,8870901100,Ideathon,Male ,hosteller ,214,mh_p ,,internal 
+466,15BCE0435,ayushc15@gmail.com,Ayush Chaturvedi,8769021266,Hackathon,Male ,hosteller ,524,mh_f ,,internal 
+467,15BCE0549,rohan.bhadauria2015@vit.ac.in,Rohan Bhadauria,7904653691,Hackathon,Male ,hosteller ,822,mh_l ,,internal 
+468,611212104069,ragu3610@gmail.com,Ragupathi,8526462226,Hackathon,Male ,,,,Knowlege Institute Of Technology ,external 
+469,15BCE0586,yashvardhan.das2015@vit.ac.in,Yashvardhan Das,9831735293,Hackathon,Male ,hosteller ,802,mh_l ,,internal 
+470,15BCE0392,lakshya.garg.97@gmail.com,Lakshya Garg,7597740279,Hackathon,Male ,hosteller ,309,mh_l ,,internal 
+471,14mse0383,pathiabhishek001@gmail.com,P V Abhishek,9515480020,Hackathon,Male ,hosteller ,482,mh_f ,,internal 
+472,15BCE0486,harshit.mittal2015@vit.ac.in,Harshit mittal,9003725413,Hackathon,Male ,hosteller ,802,mh_l ,,internal 
+473,15BBT0061,puvvula.prajwalitha2015@vit.ac.in,Puvvula Prajwalitha ,9989778198,Hackathon,Female ,hosteller ,536,lh_ea ,,internal 
+474,15BCE0588,adityya007@gmail.con,Nittala Venkata Sai Aditya,9871928822,Hackathon,Male ,hosteller ,829,mh_l ,,internal 
+475,16BCE2305,shivamdixit7077@gmail.com,Shivam Dixit,8004677436,Hackathon,Male ,hosteller ,816,mh_k ,,internal 
+476,15BCE0094,singhjyotika00@gmail.com,jyotika singh,9894609402,Hackathon,Female ,hosteller ,572,lh_ea ,,internal 
+477,16BCE2300,nipunnmiglani@gmail.com,Nipunn Miglani,8950414168,Hackathon,Male ,hosteller ,806,mh_l ,,internal 
+478,15BCE0489,yagarwal99@gmail.com,Yash agarwal,9003669361,Hackathon,Male ,hosteller ,436,mh_d ,,internal 
+479,16BCE0210,anmol98agr@gmail.com,Anmol Agrawal,9894111314,Hackathon,Male ,hosteller ,513,mh_k ,,internal 
+480,15BCE0572,meghansh.khanna2015@vit.ac.in,Meghansh Khanna,99103 24420,Hackathon,Male ,hosteller ,829,mh_l ,,internal 
+481,16BCE0102,piyush.dhamdhere2016@vitstudent.ac.in,Piyush Dhamdhere,9087888474,Hackathon,Male ,hosteller ,748,mh_g ,,internal 
+482,17BCE0217,dheshan.mail@gmail.com,M Dheshan,8870772249,Hackathon,Male ,hosteller ,736,mh_n ,,internal 
+483,17BME0744,kumaranvasanth10@gmail.com,A Vasanth Kumaran,8124960933,Hackathon,Male ,hosteller ,612,mh_n ,,internal 
+484,17BEC0423,jugal.suggala2017@vitstudent.ac.in,Jugal Suggala,9650795718,Hackathon,Male ,hosteller ,612,mh_n ,,internal 
+485,15BCE0230,govind.bagla2015@vit.ac.in,Govind Bagla,9585426885,Hackathon,Male ,hosteller ,G-446 ,mh_g ,,internal 
+486,15BCE0643,sachinandan.satapathy2015@vit.ac.in,Sachinandan Satapathy ,9566790797,Hackathon,Male ,hosteller ,427,mh_g ,,internal 
+487,16BCE0228,kaushalagarwal79@gmail.com,Kaushal Agarwal,7530006433,Hackathon,Male ,hosteller ,818A ,mh_h ,,internal 
+488,15BCE0276,shiva.goel2015@vit.ac.in,Shiva ,9790655571,Hackathon,Male ,hosteller ,309,mh_l ,,internal 
+489,16BCE0808,shubham.gupta998@gmail.com,Shubham,7092327779,Hackathon,Male ,hosteller ,319,mh_a ,,internal 
+490,16BCI0037,chirag.2016@vitstudent.ac.in,Chirag Chopra,9468480157,Hackathon,Male ,hosteller ,319,mh_a ,,internal 
+491,15BCE0620,abhishek.malik2015@vit.ac.in,Abhishek Malik,9003695866,Hackathon,Male ,hosteller ,132,mh_e ,,internal 
+492,16BIT0315,joshi.arshia@gmail.com,ARSHIA Joshi,9585844417,Hackathon,Female ,hosteller ,513,lh_c ,,internal 
+493,16BIT0327,neha.mittal2016@vitstudent.ac.in,Neha Mittal,9092655515,Hackathon,Female ,hosteller ,835,lh_e ,,internal 
+494,16BCI0098 ,souravdattamanutd@gmail.com,Sourav Datta ,9945552716,Hackathon,Male ,hosteller ,851A ,mh_h ,,internal 
+495,15BCE0557,shreyans.bardia2015@vit.ac.in,Shreyans Bardia,9033315535,Hackathon,Male ,hosteller ,443,mh_g ,,internal 
+496,16BIT9219,sidhant.sh29@gmail.com,Sidhant Sharma,8178585270,Hackathon,Male ,hosteller ,219,mh_e ,,internal 
+497,16BCE0609,04mayukh@gmail.com,Mayukh Sharma,9944777265,Hackathon,Male ,hosteller ,410,mh_k ,,internal 
+498,16BCI0151,kali.roychowdhury2016@vitstudent.ac.in,Ritajit Kali Roychowdhury,753000023,Hackathon,Male ,hosteller ,563,mh_l ,,internal 
+499,15BCE0678,divyu.dg@gmail.com,Divyanshu Gupta,7742572433,Hackathon,Male ,hosteller ,251,mh_h ,,internal 
+500,15BCE0661,abhishek.chauhan2015@vit.ac.in,Abhishek Chauhan,9790063734,Hackathon,Male ,hosteller ,249,mh_h ,,internal 
+501,16BEC0403,sanskar.biswal2016@vitstudent.ac.in,Sanskar Biswal,9535313415,Hackathon,Male ,hosteller ,416,mh_a ,,internal 
+502,15BCB0051,saraffshubham@gmail.com,Shubham Saraff,9790075505,Hackathon,Male ,hosteller ,936,mh_j ,,internal 
+503,16BCE2306,adityasinha2498@gmail.com,Aditya sinha,7530000107,Hackathon,Male ,hosteller ,520,mh_k ,,internal 
+504,17BIT0100,coolanirudh3@gmail.com,Anirudh Bhat,9971920437,Hackathon+Ideathon,Male ,hosteller ,808,mh_n ,,internal 
+505,17BCE0823,rajpanchal243@gmail.com,Raj H. Panchal,9913320298,Ideathon,Male ,hosteller ,1004,mh_m ,,internal 
+506,17BCE2009,angadsharma1016@gmail.com,Angad Sharma,9971673330,Ideathon,Male ,hosteller ,1132,mh_n ,,internal 
+507,17BCE0950,vrabhishek3737@gmail.com,V R ABHISHEK,8949683078,Ideathon,Male ,hosteller ,1136,mh_n ,,internal 
+508,16BIT0214,gursimran.singh2016@vitstudent.ac.in,GURSIMRAN SINGH,9087000369,Hackathon,Male ,hosteller ,915,mh_k ,,internal 
+509,16BCE0775,chirayu.kapoor2016@vitstudent.ac.in,Chirayu kapoor,8989452945,Hackathon,Male ,hosteller ,915,mh_k ,,internal 
+510,17BCE0656,ytiwari693@gmail.com,Yash Tiwari,9600982227,Ideathon,Male ,hosteller ,1140,mh_n ,,internal 
+511,15BEC0381,tvinai.dattareddy2015@vit.ac.in,T Vinai Datta Reddy,9003743403,Hackathon,Male ,hosteller ,503,mh_k ,,internal 
+512,16BCI0199,srdebayan@gmail.com,Debayan Bhattacharya,7530000784,Hackathon,Male ,hosteller ,654,mh_j ,,internal 
+513,16BIT0183,gurpreetsingh.2016@vitstudent.ac.in,Gurpreet Singh,9087000189,Hackathon,Male ,hosteller ,915,mh_k ,,internal 
+514,15BCE0861,priyasha.agarwalla2015@vit.ac.in,Priyasha Agarwalla,9790025211,Hackathon,Female ,hosteller ,910,lh_e ,,internal 
+515,17BCI0040,satviknema@gmail.com,Satvik Nema,9757257551,Hackathon+Ideathon,Male ,hosteller ,G22 ,mh_m ,,internal 
+516,14MSE0028,sangeeth.su2014@vit.ac.in,Sangeeth Sudheer,9446573408,Hackathon,Male ,hosteller ,418,mh_l ,,internal 
+517,15BCE0762,pritthish123@gmail.com,Pritthish Chattopadhyay,9475237845,Hackathon,Male ,hosteller ,223,mh_l ,,internal 
+518,16PHD0419,pavan540.mic@gmail.com,pavan kumar chitturi,8985670186,Hackathon,Male ,Day boarder ,,,,internal 
+519,14MSE0362,karthikeyarahul25@gmail.com,KARTHIKEYA RAHUL.M,9095048250,Hackathon,Male ,hosteller ,663,mh_l ,,internal 
+520,16BCE0330,kapoorsharan98@gmail.com,Sharan Kapoor,7530003922,Hackathon,Male ,hosteller ,802,mh_k ,,internal 
+521,15BCE0517,sanjaym.s2015@vit.ac.in,M.S.SANJAY,7010241281,Hackathon,Male ,hosteller ,L-344 ,mh_l ,,internal 
+522,14BCE0124,hrshtvaish743@gmail.com,Harshit Vaish,7010694923,Hackathon,Male ,hosteller ,264,mh_da ,,internal 
+523,16BCE2083,abhijnan.pradhan2016@vitstudent.ac.in,Abhijnan Pradhan ,7530002667,Hackathon,Male ,hosteller ,426,mh_c ,,internal 
+524,15BEC0112,psatapathy96@gmail.com,Preetam Satapathy,9003756805,Hackathon,Male ,hosteller ,656,mh_g ,,internal 
+525,17MIS0401,rpm869@gmail.com,R PREETHAM MUKUNDAN,8825577182,Hackathon,Male ,hosteller ,1025,mh_m ,,internal 
+526,17BCE0293,avi.animesh123@gmail.com,Animesh Ashish,8870688867,Hackathon+Ideathon,Male ,hosteller ,710,mh_m ,,internal 
+527,17INT0085,ainnabihah96@gmail.com,Nik Nurul Ain Nabihah ,9003396474,Hackathon,Female ,hosteller ,F917 ,lh_other ,,internal 
+528,17INT0082,shazminnurul@gmail.com,Nurul Shazmin Nasaruddin,9003396431,Hackathon,Female ,hosteller ,917,lh_other ,,internal 
+529,12MSE0127,dharani_jayakanthan@yahoo.co.in,Dharani jayakanthan,9786685574,Hackathon,Male ,Day boarder ,,,,internal 
+530,16BCE2030,tanmaygup123@gmail.com,Tannmay S Gupta ,9910887062,Hackathon,Male ,hosteller ,201,mh_k ,,internal 
+531,15BME0627,tuhin.sharma2015@vit.ac.in,Tuhin Sharma,9790018050,Hackathon,Male ,hosteller ,378,mh_da ,,internal 
+532,15BIT0354,jebaraj.m2015@vit.ac.in,M.JEBARAJ,8122898958,Hackathon,Male ,hosteller ,202,mh_ma ,,internal 
+533,17MIS0137,santhoshkholi20@gmail.com,S SANTHOSH KUMAR,7708618796,Hackathon+Ideathon,Male ,Day boarder ,,,,internal 
+534,16BEE0362,lakshya.mundra2016@vitstudent.ac.in,Lakshya Mundra,9479951392,Hackathon,Male ,hosteller ,929,mh_k ,,internal 
+535,17BIT0045,ankitsinha47@gmail.com,Ankit Kumar Sinha,7033623713,Hackathon+Ideathon,Male ,hosteller ,1127,mh_m ,,internal 
+536,16BIT0113,shaswatd673@gmail.com,Kumar Shaswat,9944555470,Hackathon,Male ,hosteller ,952,mh_j ,,internal 
+537,16BME0903,abhinav.sagar2016@vitstudent.ac.in,Abhinav,8754385629,Hackathon,Male ,hosteller ,463,mh_f ,,internal 
+538,16BEC0716,vani.gupta2016@vitstudent.ac.in,Vani Gupta,9787166659,Hackathon,Female ,hosteller ,202,lh_c ,,internal 
+539,16BCE0770,write2tjain@gmail.com,Tanmay Jain,8800686048,Hackathon,Male ,hosteller ,942,mh_l ,,internal 
+540,16BCE0333,siddharth.krishna8@gmail.com,Siddharth krishna,9125699903,Hackathon,Male ,hosteller ,319,mh_l ,,internal 
+541,16BIT0110,mishraashutosh549@gmail.com,Ashutosh Mishra,7530008840,Hackathon,Male ,hosteller ,904,mh_l ,,internal 
+542,16BCE0687,pranai.1998@gmail.com,Pranai Ramineni,9966618008,Hackathon,Male ,hosteller ,352,mh_g ,,internal 
+543,14BIT0044,hardiksethi893@gmail.com,Hardik Sethi,9626620066,Hackathon,Male ,Day boarder ,,,,internal 
+544,16BCI0077 ,mani.saksham12@gmail.com,Saksham ,8851798223,Hackathon,Male ,hosteller ,917,mh_k ,,internal 
+545,14BCE0251,akash.jain2014@vit.ac.in,Akash jain,8269230906,Hackathon,Male ,hosteller ,434,mh_g ,,internal 
+546,17BCE0533,rishabredhu@gmail.com,Rishab Singh,8800529302,Hackathon+Ideathon,Male ,hosteller ,1119,mh_m ,,internal 
+547,16BCE0198,simardeep.singh2016@vitstudent.ac.in,SIMARDEEP SINGH,9092991944,Hackathon,Male ,hosteller ,11,mh_l ,,internal 
+548,16BCE0345,sehajpreet.singh2016@vitstudent.ac.in,Sehajpreet Singh,8699967043,Hackathon,Male ,hosteller ,G17 ,mh_l ,,internal 
+549,16BCE2177,mohd.hamza2016@vitstudent.ac.in,Mohd Hamza,9971447976,Hackathon,Male ,hosteller ,426,mh_l ,,internal 
+550,16blc1001,sohamsengupta17@gmail.com,Soham Sengupta,7260815355,Hackathon,Male ,,,,VIT Chennai ,external 
+551,16BCE0679,sardanagautam1205@gmail.com,Gautam Sardana,9790731730,Hackathon,Male ,hosteller ,458,mh_h ,,internal 
+552,15BCE2038,siddharthsingh.17june@gmail.com,Siddharth Singh,9790619140,Hackathon,Male ,hosteller ,604,mh_k ,,internal 
+553,16BEE0151,jain.sudhanshu97@gmail.com,Sudhanshu Jain,9001791059,Hackathon,Male ,hosteller ,929,mh_k ,,internal 
+554,16BME0853,singhsushrut08@gmail.com,Sushrut Narayan,7530000814,Hackathon,Male ,hosteller ,929,mh_k ,,internal 
+555,14BEE0070,krishi.bharadwaj2014@vit.ac.in,Kartik Bharadwaj,9597632419,Hackathon,Male ,hosteller ,614,mh_l ,,internal 
+556,16BIT0191,aditi.kharkwal2016@vitstudent.ac.in,Aditi Kharkwal,7530002411,Hackathon,Female ,hosteller ,F-930 ,lh_other ,,internal 
+557,16BCE0280,ayush.pandey2016@vitstudent.ac.in,AYUSH PANDEY,9751233307,Hackathon,Male ,hosteller ,802,mh_k ,,internal 
+558,16BIT0163,ishita.khatri2016@vitstudent.ac.in,Ishita Khatri,9935887115,Hackathon,Female ,hosteller ,F block 930 ,mh_other ,,internal 
+559,15BIT0028,shreya.goel2015@vit.ac.in,Shreya Goel,9585465099,Hackathon,Female ,hosteller ,455,lh_ea ,,internal 
+560,16BCE0822,siddhantsingh.hada2016@vitstudent.ac.in,Siddhant singh hada,8681901311,Hackathon,Male ,hosteller ,314,mh_f ,,internal 
+561,16BCE0339,arnavsaxena2012@gmail.com,Arnav Saxena,7092889988,Hackathon,Male ,hosteller ,110,mh_l ,,internal 
+562,16BCE0910,prashant.mehlawat2016@vitstudent.ac.in,PRASHANT MEHLAWAT,8800373455,Hackathon,Male ,hosteller ,208R ,mh_g ,,internal 
+563,16BCE0539,aachma.jain2016@vitstudent.ac.in,Aachman Jain,8447254288,Hackathon,Male ,hosteller ,208G ,mh_g ,,internal 
+564,16BCE0100,rishabhvallecha@gmail.com,Rishabh Vallecha,9582966464,Hackathon,Male ,hosteller ,G208G ,mh_g ,,internal 
+565,16BCI0002,rahul.porwal2016@vitstudent.ac.in,Rahul Porwal,9752484917,Hackathon,Male ,hosteller ,750,mh_g ,,internal 
+566,15BCE0421,debraj1310.manutd@gmail.com,Debraj Dutta,8900596999,Hackathon,Male ,hosteller ,132,mh_e ,,internal 
+567,16BCE0615,kartikeyajha27@gmail.com,KARTIKEYA JHA,7530003220,Hackathon,Male ,hosteller ,208-G ,mh_g ,,internal 
+568,15BCE0737,manav.rajvanshi2015@vit.ac.in,Manav Rajvanshi,9790035498,Hackathon,Male ,hosteller ,402,mh_f ,,internal 
+569,16BCB0120 ,divyeshp2598@gmail.com,Divyesh pershad ,9573325214,Hackathon,Male ,hosteller ,627,mh_k ,,internal 
+570,15BIT0254,amogha218@gmail.com,Amogha,8017875115,Hackathon,Female ,hosteller ,816,lh_e ,,internal 
+571,16BEC0247 ,kriti.kacker2016@vitstudent.ac.in,Kriti Kacker ,8004936388,Hackathon,Female ,hosteller ,F-708 ,lh_other ,,internal 
+572,16BCE2124,vitraghav1999@gmail.com,Sai Raghavendra,9840939240,Hackathon,Male ,hosteller ,112A ,mh_k ,,internal 
+573,16BCE2290,tanishaagrawal.2016@vitstudent.ac.in,Tanisha Agrawal,8870524575,Hackathon,Female ,hosteller ,476,lh_ea ,,internal 
+574,15BIT0340,dhaivat.pujara2015@vit.ac.in,Dhaivat Pujara,7016481931,Hackathon,Male ,hosteller ,202,mh_l ,,internal 
+575,17BCE2181,dmadhur6@gmail.com,Madhur Dixit,9453998530,Hackathon,Male ,hosteller ,608,mh_m ,,internal 
+576,15BCE0874,vedantjain.jain@gmail.com,Vedant Jain,9582314292,Hackathon,Male ,hosteller ,719,mh_k ,,internal 
+577,14MSE0418,johnv7vijay@gmail.com,Vijay K,9597092576,Hackathon,Male ,hosteller ,504,mh_l ,,internal 
+578,16BIT0410,kbhagya902@gmail.com,Bhagyashree K,9843999414,Hackathon,Female ,hosteller ,440,lh_d ,,internal 
+579,16BCE0276,patel.nileshbhai2016@vitstudent.ac.in,Munjal Patel,9894777057,Hackathon,Male ,hosteller ,220,mh_k ,,internal 
+580,15BIT0017,anjali.kushwah108@gmail.com,Anjali Kushwaha,9790610833,Hackathon,Female ,hosteller ,350,lh_ea ,,internal 
+581,17BEC0558,suchi342.sr@gmail.com,Y.suchendra reddy,7093348140,Hackathon,Male ,hosteller ,431,mh_p ,,internal 
+582,16BCE2279,mishraadweat@gmail.com,Adweat Mishra,8531029820,Hackathon,Male ,hosteller ,903,mh_l ,,internal 
+583,16BCE0972,sarthak.kar2016@gmail.com,SARTHAK kar,9585111302,Hackathon,Male ,hosteller ,322,mh_b ,,internal 
+584,16bem0052,Smitkanther25@gmail.com,Smit kanther,7575025598,Hackathon,Male ,hosteller ,450,mh_h ,,internal 
+585,15BCE0971,sreya.dronamraju@gmail.com,Sreya Dronamraju,9585603370,Hackathon,Female ,hosteller ,303,lh_e ,,internal 
+586,16BEE0064,akshatnikhra5@gmail.com,Akshat Nikhra,9751977759,Hackathon,Male ,hosteller ,536,mh_l ,,internal 
+587,15BCE0150,babarsatyak.sanjay2015@vit.ac.in,Satyak Babar,9790069703,Hackathon,Male ,hosteller ,441,mh_j ,,internal 
+588,15BCE0594,seerat.chugh2015@vit.ac.in,Seerat Chugh,7530000972,Hackathon,Female ,hosteller ,572,lh_ea ,,internal 
+589,15BEC0287,heenamrhin@gmail.com,Heena Amrhin,7339474624,Hackathon,Female ,hosteller ,F 729 ,mh_other ,,internal 
+590,16BCE0784,ujjwalseth1998@gamil.com,Ujjwal Seth,8850173188,Hackathon,Male ,hosteller ,906,mh_k ,,internal 
+591,16BCE0760,raghul.sathya@gmail.com,Raghul Krishnan,9486137239,Hackathon,Male ,hosteller ,906,mh_k ,,internal 
+592,16BCI0075,azizmuslim.vohra2016@vitstudent.ac.in,Aziz Muslim,8469014172,Hackathon,Male ,hosteller ,453,mh_g ,,internal 
+593,16BEC0144,dhairyagangwani30@gmail.com,Dhairya Rajiv Gangwani,9487517675,Hackathon,Female ,hosteller ,916,lh_other ,,internal 
+594,16BCE0221,shreyashk1997@gmail.com,shreyash kawalkar,8320996233,Hackathon,Male ,hosteller ,229,mh_h ,,internal 
+595,17BCE0042,rishavrajjain@gmail.com,Rishav,8586980704,Hackathon,Male ,hosteller ,515,mh_m ,,internal 
+596,16BCE0146,syedarshi913@gmail.com,Waliullah Arshi,9952111938,Hackathon,Male ,hosteller ,385,mh_f ,,internal 
+597,16BCE0226,utkarshsharma.2016@vitstudent.ac.in,Utkarsh Sharma,7530003304,Hackathon,Male ,hosteller ,733,mh_l ,,internal 
+598,17IRGR014 ,samsresakthi@gmail.com,Sakthivel Sundarasan ,8754932281,Hackathon+Ideathon,Male ,,,,PSG UNIVERSITY ,external 
+599,16BCE0113,sahilmalhotra958@gmail.com,Sahil Malhotra,9582502523,Hackathon,Male ,hosteller ,805,mh_k ,,internal 
+600,17IRGR012,selva_arasu2000@icloud.com,SELVAGANAPATHI THIRUNAVUKKARASU,9751104491,Ideathon,Male ,,,,PSG Institute of Advanced Studies ,external 
+601,16BIT0379,rahul.yadav2016@vitstudent.ac.in,Rahul Yadav,9958283686,Hackathon,Male ,hosteller ,705,mh_k ,,internal 
+602,17BCE2211,simriti.koul@yahoo.com,Simriti Koul,9047388492,Hackathon,Female ,hosteller ,F 311 ,lh_other ,,internal 
+603,17BCE0440,samartharora99@gmail.com,Samarth Arora ,7464828567,Ideathon,Male ,hosteller ,719,mh_n ,,internal 
+604,15MIS0331,pulipoorna.shekarreddy2015@vit.ac.in,Puli Poorna Shekar Reddy,9790633634,Hackathon,Male ,Day boarder ,,,,internal 
+605,16BEC0363,vijay.saran2016@vitstudent.ac.in,Vijay Saran,7530000290,Hackathon,Male ,hosteller ,602,mh_k ,,internal 
+606,14mse0318,kalluri.manikanta2014@vit.ac.in,Kalluri Manikanta,9944933255,Hackathon,Male ,hosteller ,482,mh_f ,,internal 
+607,17BEI0013,aamirk.1210@gmail.com,aamir kolhar,7083554130,Hackathon+Ideathon,Male ,hosteller ,459,mh_p ,,internal 
+608,17BEI0045,shankarharan1999@gmail.com,K Shankar Hariharan,9600665460,Hackathon+Ideathon,Male ,hosteller ,459,mh_p ,,internal 
+609,16BCE2262,utkarshini.2016@vitstudent.ac.in,Utkarshini Arora,8826309923,Hackathon,Female ,hosteller ,F -630 ,lh_other ,,internal 
+610,17BCE0998,hrithikjha1999@gmail.com,Hrithik Jha,9167006500,Hackathon+Ideathon,Male ,hosteller ,560,mh_p ,,internal 
+611,17BCE0515,nigel.ferrao99@gmail.com,Nigel ferrao,9146346590,Hackathon+Ideathon,Male ,hosteller ,726,mh_n ,,internal 
+612,17BCE2307,jjjj1969@hotmail.com,Aphichart meedan,8860194348,Ideathon,Male ,hosteller ,1136,mh_m ,,internal 
+613,16BIT0276,gopal.gupta2016@vitstudent.ac.com,Gopal Gupta,7377002827,Hackathon,Male ,hosteller ,661,mh_l ,,internal 
+614,15BCE0770,suyashpratap.singhranawat2015@vit.ac.in,SUYASH PRATAP SINGH RANAWAT MOULI CHAUHAN ,9790064466,Hackathon,Male ,hosteller ,208K ,mh_g ,,internal 
+615,16BIT0259,ysrivastava20@gmail.com,Yash Srivastava,9087777429,Hackathon,Male ,hosteller ,208(g) ,mh_g ,,internal 
+616,15bec0282,yash.gupta2015b@vit.ac.in,Yash Gupta,9445870295,Hackathon,Male ,hosteller ,616,mh_k ,,internal 
+617,16BCE0091,siddhantchaudhary98@yahoo.com,Siddhant Chaudhary,7530003396,Hackathon,Male ,hosteller ,231,mh_b ,,internal 
+618,16BIT0228,aayushi.patel2016@vitstudent.ac.in,Aayushi Patel,9626944498,Hackathon,Female ,hosteller ,117,lh_c ,,internal 
+619,17BCE0558,mohitanil.manghnani2017@vitstudent.ac.in,Mohit Manghnani,9003386438,Hackathon+Ideathon,Male ,hosteller ,128,mh_n ,,internal 
+620,17BCE0186,mchatriwala2@gmail.com,Mustafa Chatriwala,9003302618,Hackathon+Ideathon,Male ,hosteller ,119,mh_n ,,internal 
+621,15BEC0494,gschoudhary2507@gmail.com,Ganesh Singh Choudhary,9929128083,Hackathon,Male ,hosteller ,404,mh_g ,,internal 
+622,16BCE0434,basupatil286@gmail.com,BASANGOUDA BABUGOUDA PATIL,8861567555,Hackathon,Male ,hosteller ,918 A ,mh_j ,,internal 
+623,16BIT0201,allan.bastian9.ab@gmail.com,Allan P Bastian,9588099909,Hackathon,Male ,hosteller ,648,mh_g ,,internal 
+624,17R218,jsuriya99@gmail.com,Jayasuriya Suresh ,7639536663,Hackathon+Ideathon,Male ,,,,PSG College of Technology ,external 
+625,15bce0033,devank070397@gmail.com,Devank,9790011451,Hackathon,Male ,hosteller ,639,mh_h ,,internal 
+626,16BCE0763,varshini.prakash2016@vitstudent.ac.in,Varshini Prakash,9003154122,Hackathon,Female ,hosteller ,D 330 ,lh_d ,,internal 
+627,17R204,ajayranjan1999@gmail.com,Ajay Rajan,9487640755,Ideathon,Male ,,,,PSG College Of Technology ,external 
+628,15BIT0047,zubairfuzail.zubair2015@vit.ac.in,fuzail zubair,9585603680,Hackathon,Male ,hosteller ,208k ,mh_g ,,internal 
+629,15bec0734,kashyapshashankv1@gmail.com,Shashank kumar,9003853891,Hackathon,Male ,hosteller ,609,mh_g ,,internal 
+630,15BEC0778,adnansaifee1@gmail.com,Adnan Saifee,9445601204,Hackathon,Male ,hosteller ,656,mh_g ,,internal 
+631,16BME0484,patisandeshreddy1998@gmail.com,P SANDESH REDDY,9790222965,Hackathon,Male ,hosteller ,520,mh_k ,,internal 
+632,16BCE2310,aditya.ranjan65@gmail.com,Aditya Ranjan,7530006554,Hackathon,Male ,hosteller ,520,mh_k ,,internal 
+633,16BME0347,vr.rohith01@gmail.com,Rohith V.R,9445472821,Hackathon,Male ,hosteller ,225,mh_c ,,internal 
+634,16BME0598,gulshandhanuka@gmail.com,Gulshan Kumar,8667254252,Hackathon,Male ,hosteller ,128,mh_b ,,internal 
+635,16BME0392,slathia.shivang@gmail.com,Shivang Slathia,9843366639,Hackathon,Male ,hosteller ,602,mh_k ,,internal 
+636,15BCE0047,guptayash2010@gmail.com,Yash Gupta,9790042893,Hackathon,Male ,hosteller ,927,mh_h ,,internal 
+637,16BCE2317,simhadante@gmail.com,Simha Vishnu,7358343699,Hackathon,Male ,hosteller ,678,mh_f ,,internal 
+638,15BCE0192,rakshit.hazrati2015@vit.ac.in,Rakshit Hazrati,7976305590,Hackathon,Male ,hosteller ,518,mh_l ,,internal 
+639,16MIS0524,tonyfanto14@gmail.com,Tony fanto.A,9994304036,Hackathon,Male ,hosteller ,225,mh_c ,,internal 
+640,16BEC0365,rohanroxx1@gmail.com,Ronan Singh Kandra,7530000629,Hackathon,Male ,hosteller ,3,mh_k ,,internal 
+641,16BCE0733,namansingh.bhandari2016@vitstudent.ac.in,Naman Singh Bhandari,9487561453,Hackathon,Male ,Day boarder ,,,,internal 
+642,17121A1259,rangamanchikanti007@gmail.com,M.V.Rangaswamy,9182625198,Hackathon,Male ,,,,Sri vidyanikethan engineering college ,external 
+643,16BEE0284,prakharsingh1729@gmail.com,PRAKHAR SINGH CHANDEL,7530003788,Hackathon,Male ,hosteller ,843,mh_l ,,internal 
+644,17BCE0040,amulyaboyapati99@gmail.com,Amulya Boyapati,9505456119,Ideathon,Female ,hosteller ,321,lh_other ,,internal 
+645,17BCE0934,atg271@gmail.com,Abhinav Srivastava,7738956114,Hackathon,Male ,hosteller ,426,mh_n ,,internal 
+646,16BCE0441,nihar.dangi2016@vitstudent.ac.in,NIHAR DANGI,9092333995,Hackathon,Male ,hosteller ,464,mh_g ,,internal 
+647,IS201501048,utkal1997@live.in,Utkal Sirikonda,9491508470,Hackathon,Male ,,,,Indian Institute of Information Technology Sricity ,external 
+648,16BIT0416,rajani.goudar2016@vitstudent.ac.in,rajani goudar,9585811169,Hackathon,Female ,hosteller ,f-928 ,lh_other ,,internal 
+649,16BCE2136,purumandra.kumar2016@vitstudent.ac.in,Purumandra Kumar ,9478174724,Hackathon,Male ,hosteller ,17,mh_l ,,internal 
+650,16BCI0076,mahima386@gmail.com,mahima singh,9092777550,Hackathon,Female ,hosteller ,f-928 ,lh_other ,,internal 
+651,17BCI0097,akashsreddy99@gmail.com,Akash S Reddy,9538917711,Hackathon,Male ,hosteller ,420,mh_n ,,internal 
+652,16BCE0451,nivedita.2016@vitstudent.ac.in,Nivedita,9013229626,Hackathon,Female ,hosteller ,F-930 ,mh_other ,,internal 
+653,16BIT0079,bhanu.gogia2016@vitstudent.ac.in,Bhanu Gogia,7015138533,Hackathon,Male ,hosteller ,221,mh_k ,,internal 
+654,17121A05N7,pavansainathreddyy@gmail.com,Y Pavan sainath reddy,9949571958,Hackathon,Male ,,,,Sree vidyanikethan engineering college ,external 
+655,16BIT0009,ankit.siddhartha2016@vitstudent.ac.in,Ankit Siddhartha ,7530003100,Hackathon,Male ,hosteller ,410,mh_k ,,internal 
+656,16BIT0218,rachit.bhalla2016@vitstudent.ac.in,Rachit Bhalla,9555674865,Hackathon,Male ,hosteller ,609,mh_da ,,internal 
+657,16BEC0691,aarohi.sinha2016@vitstudent.ac.in,Aarohi Sinha,7720009528,Hackathon,Female ,hosteller ,F-824 ,lh_other ,,internal 
+658,15BIT0057,rushikesh.babar2015@vit.ac.in,Rushikesh Babar,9585582399,Hackathon,Male ,hosteller ,807,mh_k ,,internal 
+659,16BIT0008,devendrakumar.rai2016@vitstudent.ac.in,Devendra Kumar Rai,7739583428,Hackathon,Male ,hosteller ,221,mh_k ,,internal 
+660,15BIT0177,chinmay.chaturvedi2015@vit.ac.in,Chinmay Chaturvedi,8209796127,Hackathon,Male ,hosteller ,807,mh_k ,,internal 
+661,16BIT0195,joji.johnson2016@vitstudent.ac.in,Joji Johnson,9629000231,Hackathon,Male ,hosteller ,453,mh_g ,,internal 
+662,16BIT0172,vinod.tahelyani2016@vitstudent.ac.in,Vinod Tahelyani,8349315737,Hackathon,Male ,hosteller ,449,mh_g ,,internal 
+663,17BCE0211,nachi2muthu13@gmail.com,Nachimuthu n ,9488363737,Hackathon,Male ,hosteller ,916,mh_n ,,internal 
+664,16BCE0415,bhaveshdevjani14@gmail.com,BHAVESH DEVJANI,8890330074,Hackathon,Male ,hosteller ,122A ,mh_b ,,internal 
+665,16BCE2253,syedsabeeth@gmail.com,Syed Sabeeth Shoeb,8861718132,Hackathon,Male ,hosteller ,1010,mh_l ,,internal 
+666,15BCE0353,akgextra@gmail.com,Arpit Khurana,9335005977,Hackathon,Male ,hosteller ,715,mh_g ,,internal 
+667,15BEC0917,ritika.ghosh2015@vit.ac.in,RITIKA GHOSH,9585377919,Hackathon,Female ,hosteller ,542,lh_ea ,,internal 
+668,16BEM0036,shantanu.tiwari2016@vitstudent.ac.in,Shantanu Tiwari,7530000350,Hackathon,Male ,hosteller ,816,mh_k ,,internal 
+669,16BEM0024,borntorule.shubham@gmail.com,Shubham Tulsyan,9790666353,Hackathon,Male ,hosteller ,816,mh_k ,,internal 
+670,17BCE0212,pushkal.dwivedi98@gmail.com,Pushkal Dwivedi,9003302050,Hackathon,Male ,hosteller ,807,mh_m ,,internal 
+671,15BEC0533,isha.pandey2015@vit.ac.in,Isha Pandey,9003705910,Hackathon,Female ,hosteller ,338,lh_d ,,internal 
+672,15BME0651,spranav.kumar2015@vit.ac.in,Pranav,9444362780,Hackathon,Male ,hosteller ,378,mh_da ,,internal 
+673,15BCE2082,utkarsh.bajpai2015@vit.ac.in,Utkarsh Bajpai,9585451103,Hackathon,Male ,hosteller ,340,mh_d ,,internal 
+674,17BEE0054,amolele@gmail.com,Amogh Lele,9869609516,Hackathon,Male ,hosteller ,612,mh_n ,,internal 
+675,17BCE0234,agambajwa2207@gmail.com,Agampreet Singh Bajwa,9876195735,Hackathon,Male ,hosteller ,608,mh_m ,,internal 
+676,15BCE0461,tanaya.yadav2015@vit.ac.in,Tanaya Yadav ,7358922872,Hackathon,Female ,hosteller ,822,lh_e ,,internal 
+677,16BIT0345,akash.verma2016@vitstudent.ac.in,Akash verma,9990278420,Hackathon,Male ,hosteller ,944,mh_h ,,internal 
+678,15BCE0525,divya.debashrita2015@vit.ac.in,DIVYA DEBASHRITA ,9500317297,Hackathon,Female ,hosteller ,924,lh_e ,,internal 
+679,16BIT0334,smithshelke@gmail.com,smithshelke,9820242960,Hackathon,Male ,hosteller ,924,mh_k ,,internal 
+680,16bce0105,girishreddy.sura2016@vitstudent.ac.in,Sura Girish Reddy ,7092341115,Hackathon,Male ,hosteller ,542,mh_l ,,internal 
+681,16BCE0557,sunnypait@gmail.com,Supratim Pait,9650477978,Hackathon,Male ,hosteller ,634,mh_l ,,internal 
+682,15BIT0033,sam9130816080@gmail.com,SUMIT PATIL,9130816080,Hackathon,Male ,hosteller ,611,mh_k ,,internal 
+683,16BIT0080,harshdaga247@gmail.com,HARSH DAGA,8910010136,Hackathon,Male ,hosteller ,935,mh_l ,,internal 
+684,17BCE0927,kushal.veer2017@vitstudent.ac.in,kushal veer,8447337078,Hackathon+Ideathon,Male ,hosteller ,624,mh_p ,,internal 
+685,17BIT0061,chahatsharma9995@gmail.com,Chaahat sharma,9811609240,Hackathon,Male ,hosteller ,1010,mh_n ,,internal 
+686,17BIT0099,ujjwalsinha73@gmail.com,Ujjwal Sinha,9006330077,Hackathon,Male ,hosteller ,337,mh_n ,,internal 
+687,17BCE0088,chandresh7777777@gmail.com,Chandresh Mallick,9159553445,Hackathon,Male ,hosteller ,M-833 ,mh_m ,,internal 
+688,16BCE2072,aritro.paul61@gmail.com,Aritro Paul,9873744425,Hackathon,Male ,hosteller ,419,mh_k ,,internal 
+689,11361a0551,priyanka9194@gmail.com,Priyanka ,8142252156,Hackathon,Female ,,,,Jpnce ,external 
+690,16BEC0773,yuvrajsingh.pundir2016@vitstudent.ac.in,Yuvraj Singh Pundir,7530008099,Hackathon,Male ,hosteller ,690,mh_f ,,internal 
+691,17MEA0030,premakula003@gmail.com,Prem akula,9963311445,Hackathon,Male ,hosteller ,903,mh_m ,,internal 
+692,17MEA0008,vv.krishna.reddy144@gmail.com,V. VAMSI KRISHNA REDDY,8466917327,Hackathon,Male ,hosteller ,230,mh_p ,,internal 
+693,17BIS0044,aknsmb@gmail.com,Mukundh Bhushan ,9741841142,Hackathon,Male ,hosteller ,807,mh_m ,,internal 
+694,17BEI0003,llpcslakshmi@gmail.com,L.b.Shaaran,8825738239,Hackathon+Ideathon,Male ,hosteller ,2,mh_n ,,internal 
+695,15BEI0070,jasojyotichakraborty@gmail.com,Jasojyoti chakraborty,9650996199,Hackathon,Male ,hosteller ,402,mh_f ,,internal 
+696,15BIT0337 ,dspatil00@gmail.com,Dhanashri Patil ,9404004416,Hackathon,Female ,hosteller ,416,lh_c ,,internal 
+697,15BCE0159,saloni.bhardwaj2015@vit.ac.in,saloni bhardwaj,9585466169,Hackathon,Female ,hosteller ,F-702 ,lh_e ,,internal 
+698,14BEC0324,kvikranth30@gmail.com,vikranth,7013455721,Hackathon,Male ,hosteller ,300a ,mh_h ,,internal 
+699,16BCI0055,shaleenjain449@gmail.com,Shaleen Kachhara,9629072122,Hackathon,Male ,hosteller ,667,mh_g ,,internal 
+700,16BCI0016,arpitsaxena0910@gmail.com,Arpit Saxena,9629000792,Hackathon,Male ,hosteller ,230,mh_k ,,internal 
+701,17MEA0017,vinay.reddy4026@gmail.com,Obbineni Vinay Kumar reddy ,7893844004,Hackathon,Male ,hosteller ,610,mh_m ,,internal 
