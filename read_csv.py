@@ -6,9 +6,6 @@ def read_csv(filename):
         with open(filename, 'rb') as f:
             reader = DictReader(f)
             csv_data = list(reader)
-        return csv_data
+        return {"code": 200, "data": csv_data}
     except:
-        return "Missing file or filepath"
-
-filename = "test_data/devfest2017.csv"
-print read_csv(filename)[0]
+        return {"code": 400, "msg": "Missing file or filepath"}
