@@ -14,7 +14,7 @@ def create_collection():
         print file_data["msg"]
     else:
         file_data = file_data["data"]
-        print file_data[:2]
+        # print file_data[:2]
         msg = update_database(db_link, database_name, collection_name, file_data)
         if msg["code"] == 400:
             print msg["msg"]
@@ -30,7 +30,7 @@ if __name__ == "__main__":
     # db_link = raw_input('Enter database link : ').strip()
     # database_name = raw_input('Enter database name : ').strip()
     # collection_name = raw_input('Enter collection name : ').strip()
-
+    # mongodb://gdgvit:gdgvit@ds133557.mlab.com:33557/subconn
     main = Tk()
     main.resizable(0, 0)
     fnt = (None, 20)
